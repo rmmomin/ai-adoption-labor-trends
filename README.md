@@ -6,10 +6,12 @@ Reproducible employment analysis scripts using U.S. BLS CES data and AI-adoption
 
 ```text
 employment-ai/
-  data/                               # local input files (for example Ramp CSVs)
+  data/                               # local input files
+    qilp.xlsx
   scripts/                            # runnable analysis scripts
     recompute_ai_quartile_growth.py
     reproduce_ces_monthly_employment_index.py
+    reproduce_productivity_levels_quantiles_from_raw.py
   outputs/                            # generated result files (gitignored)
   bls_cache/                          # cached BLS bulk data (gitignored)
   requirements.txt
@@ -88,3 +90,40 @@ Primary outputs:
 - `employment_index_ces_monthly_2023m1_100_latest_33vs66.csv/.png`
 - `employment_index_ces_monthly_2023m1_100_latest_BottomvsTop50.csv/.png`
 - `employment_index_ces_monthly_2023m1_100_latest_all_splits_long.csv`
+
+## Script 3: Productivity level index by AI-adoption quantiles
+
+Purpose:
+- Reproduce QILP labor-productivity level indexes (rebased to 2023Q1=100) for p10/p90, p25/p75, and p33/p66 AI-adoption splits.
+
+Required inputs:
+- `data/qilp.xlsx` (included in this repo)
+- Ramp monthly adoption CSV (`Date` and `naics_sector_*_ai_user_share`)
+
+Run:
+
+```bash
+python3 scripts/reproduce_productivity_levels_quantiles_from_raw.py \
+  --qilp-xlsx data/qilp.xlsx \
+  --ramp-csv data/ramp-data-wQR5S\(1\).csv \
+  --outdir outputs/productivity_levels_quantiles_from_2023Q1
+```
+
+If `--ramp-csv` is omitted, the script searches for:
+
+- `ramp-data-wQR5S(1).csv`
+- `ramp-data-wQR5S.csv`
+- `data/ramp-data-wQR5S(1).csv`
+- `data/ramp-data-wQR5S.csv`
+
+Common options:
+
+- `--base-date 2023-01-01`
+
+Primary outputs:
+
+- `productivity_levels_index_2023Q1_100_p10_p90_from_2023Q1.csv/.png`
+- `productivity_levels_index_2023Q1_100_p25_p75_from_2023Q1.csv/.png`
+- `productivity_levels_index_2023Q1_100_p33_p66_from_2023Q1.csv/.png`
+- `productivity_levels_index_2023Q1_100_all_quantile_splits_from_2023Q1.csv`
+- `ai_quantile_membership_latestRampMonth.csv`
