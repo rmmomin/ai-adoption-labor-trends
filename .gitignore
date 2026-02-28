@@ -1,0 +1,9 @@
+.env
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+
+# Generated artifacts
+outputs/
+bls_cache/
