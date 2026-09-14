@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.60a.ProfessionalBusinessServices.Employment",
+  "file": "bls/ce.data.60a.ProfessionalBusinessServices.Employment",
+  "bytes": 9255877,
+  "sha256": "9421daf4485f238bb2cf015243ebfb7219ab6b9a5e93fe37407916bff02d9882",
+  "retrieved_at_utc": "2026-09-14T19:19:59.956672+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:15 GMT"
+}

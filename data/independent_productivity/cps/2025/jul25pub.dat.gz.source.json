@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/jul25pub.dat.gz",
+  "file": "cps/2025/jul25pub.dat.gz",
+  "bytes": 10125912,
+  "sha256": "3b284881dfb05061c2197555ccffae1572c8f955de7407984b4bb72774b51da1",
+  "retrieved_at_utc": "2026-09-14T19:28:59.390356+00:00",
+  "last_modified": "Fri, 26 Sep 2025 13:30:33 GMT"
+}

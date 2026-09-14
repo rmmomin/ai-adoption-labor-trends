@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/dec07pub.dat.gz",
+  "file": "cps/2007/dec07pub.dat.gz",
+  "bytes": 12708789,
+  "sha256": "8966e9dad968d766e7333dd3bb65fdd311ab56971aacfa4d37ac7ee857c6ac33",
+  "retrieved_at_utc": "2026-09-14T19:25:04.644660+00:00",
+  "last_modified": "Wed, 08 Jan 2020 15:53:14 GMT"
+}

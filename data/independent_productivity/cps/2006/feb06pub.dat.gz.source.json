@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/feb06pub.dat.gz",
+  "file": "cps/2006/feb06pub.dat.gz",
+  "bytes": 12597798,
+  "sha256": "53694340993f4de6ea8e14e427769b22593af5590335453fd1c97ee327c45dbc",
+  "retrieved_at_utc": "2026-09-14T19:21:16.908689+00:00",
+  "last_modified": "Wed, 08 Jan 2020 15:51:27 GMT"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.65b.EducationAndHealthCare.AllEmployeeHoursAndEarnings",
+  "file": "bls/ce.data.65b.EducationAndHealthCare.AllEmployeeHoursAndEarnings",
+  "bytes": 9318575,
+  "sha256": "32d493a97ac81a7314dc48cdbd33272bde85200f14630d935af689bcb07f82e6",
+  "retrieved_at_utc": "2026-09-14T19:20:22.878679+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/2020_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+  "file": "cps_dict/2020_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+  "bytes": 164654,
+  "sha256": "6980896b1529b6f6832d4261503eb1d1db2e86984a0e8d2506d24ba81102e5bf",
+  "retrieved_at_utc": "2026-09-14T19:44:08.242768+00:00",
+  "last_modified": "Thu, 05 Mar 2020 14:41:13 GMT"
+}

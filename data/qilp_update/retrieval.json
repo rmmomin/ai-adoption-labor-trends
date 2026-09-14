@@ -1,0 +1,11 @@
+{
+  "retrieved_at_utc": "2026-09-14T18:57:54.038554+00:00",
+  "urls": {
+    "qilp_published.xlsx": "https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp.xlsx",
+    "ValueAdded.xlsx": "https://apps.bea.gov/industry/Release/XLS/GDPxInd/ValueAdded.xlsx",
+    "ce.series": "https://downloadt.bls.gov/pub/time.series/ce/ce.series",
+    "ce.industry": "https://downloadt.bls.gov/pub/time.series/ce/ce.industry",
+    "qilp-release-notes.pdf": "https://www.chicagofed.org/-/media/others/people/research-resources/hobijin-bart/qilp-release-notes.pdf",
+    "article.html": "https://www.chicagofed.org/publications/economic-perspectives/2025/1"
+  }
+}

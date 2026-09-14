@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.32a.ManufacturingNondurableGoods.Employment",
+  "file": "bls/ce.data.32a.ManufacturingNondurableGoods.Employment",
+  "bytes": 5029041,
+  "sha256": "65101d7068d3174c1b816730b29f2252327ea3a557ea3476ecf89f705bd8ac2f",
+  "retrieved_at_utc": "2026-09-14T19:17:18.064634+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+}

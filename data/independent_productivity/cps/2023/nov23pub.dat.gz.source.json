@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/nov23pub.dat.gz",
+  "file": "cps/2023/nov23pub.dat.gz",
+  "bytes": 10018857,
+  "sha256": "034563dd0c797355897ea709673bf8110b9884d33510cd4932af41ec1f3b0971",
+  "retrieved_at_utc": "2026-09-14T19:29:50.310877+00:00",
+  "last_modified": "Thu, 14 Dec 2023 17:02:23 GMT"
+}

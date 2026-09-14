@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/jan09dd.txt",
+  "file": "cps_dict/jan09dd.txt",
+  "bytes": 148965,
+  "sha256": "f0a403b20f85179cf9bc8acbb389b4d6aeca3317631b1a48c5639d18b9daf228",
+  "retrieved_at_utc": "2026-09-14T19:24:31.518218+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:15:22 GMT"
+}

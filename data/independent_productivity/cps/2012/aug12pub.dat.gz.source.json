@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/aug12pub.dat.gz",
+  "file": "cps/2012/aug12pub.dat.gz",
+  "bytes": 12934405,
+  "sha256": "0b59b605fe7fbbdbf4c30b480be7996a8714ac41198e6c9e1c5f22e3d0ecc2e0",
+  "retrieved_at_utc": "2026-09-14T19:29:57.308476+00:00",
+  "last_modified": "Fri, 05 Nov 2021 21:40:21 GMT"
+}

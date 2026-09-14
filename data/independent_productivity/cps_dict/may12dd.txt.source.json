@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/may12dd.txt",
+  "file": "cps_dict/may12dd.txt",
+  "bytes": 148441,
+  "sha256": "356b6900d15ae6d9afb28b7c585574f71f93daa10adc003a076ffcd6e8c9ffb6",
+  "retrieved_at_utc": "2026-09-14T19:29:26.406650+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:26:34 GMT"
+}

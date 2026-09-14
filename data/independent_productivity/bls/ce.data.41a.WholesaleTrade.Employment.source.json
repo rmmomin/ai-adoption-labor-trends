@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.41a.WholesaleTrade.Employment",
+  "file": "bls/ce.data.41a.WholesaleTrade.Employment",
+  "bytes": 5914101,
+  "sha256": "1764a7afbd172fc3ae922c66933c589e9d38a3879f48fb2714013bc47fb74630",
+  "retrieved_at_utc": "2026-09-14T19:18:44.446666+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:13 GMT"
+}

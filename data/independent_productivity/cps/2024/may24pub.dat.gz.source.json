@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/may24pub.dat.gz",
+  "file": "cps/2024/may24pub.dat.gz",
+  "bytes": 10480842,
+  "sha256": "cdaaa53c581593d6dc2269e7d9158eaca2e5679b3bd8693171cc7a2c1607e7d1",
+  "retrieved_at_utc": "2026-09-14T19:30:23.755038+00:00",
+  "last_modified": "Fri, 26 Sep 2025 13:16:03 GMT"
+}

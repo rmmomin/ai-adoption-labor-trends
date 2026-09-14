@@ -1,0 +1,3995 @@
+{
+  "status": "REQUEST_SUCCEEDED",
+  "responseTime": 198,
+  "message": [],
+  "Results": {
+    "series": [
+      {
+        "seriesID": "CES4300000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "6606.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "6601.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "6587.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "6597.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "6597.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "6557.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "6532.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "6578.0",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4300000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "37.9",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "37.9",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "37.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "38.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "38.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "38.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "38.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "38.3",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4348100001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "566.1",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "567.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "568.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "568.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "574.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "575.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "574.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "569.7",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4348100002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "36.4",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "36.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "36.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "36.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "36.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "37.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "38.1",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4348400001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "1470.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "1465.5",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "1465.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "1467.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "1469.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "1464.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "1465.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "1465.6",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4348400002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "41.0",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "40.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "41.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "40.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "41.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "41.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "41.0",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4348500001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "496.9",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "493.2",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "490.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "492.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "486.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "490.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "491.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "494.0",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4348500002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "33.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "33.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "34.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "34.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "34.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "34.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "34.1",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4349300001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "1837.4",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "1840.0",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "1845.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "1841.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "1837.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "1832.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "1831.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "1830.4",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4349300002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "40.2",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "39.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "40.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "40.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "39.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "39.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "39.9",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4422000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "611.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "609.2",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "607.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "607.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "606.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "605.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "606.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "604.7",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES4422000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "43.0",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "42.6",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "42.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "42.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "42.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "42.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "42.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "42.2",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5000000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "2745",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "2768",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "2763",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "2782",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "2787",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "2793",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "2792",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "2815",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5000000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "37.2",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "37.1",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "37.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "37.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "37.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "37.5",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5051200001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "329.8",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "330.6",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "322.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "325.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "331.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "336.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "339.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "352.4",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5051200002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "24.2",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "25.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "24.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "25.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "26.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "26.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "26.5",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5500000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "9086",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "9097",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "9108",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "9106",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "9126",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "9132",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "9149",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "9147",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5500000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "37.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "37.5",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5552000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "6651.1",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "6658.5",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "6671.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "6666.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "6684.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "6688.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "6707.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "6710.4",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5552400001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "2930.0",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "2936.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "2942.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "2946.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "2958.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "2966.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "2975.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "2982.0",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5552400002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "38.4",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "38.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "38.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "38.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "38.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "38.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "38.5",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5553000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "2435.1",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "2438.6",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "2436.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "2439.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "2441.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "2443.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "2441.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "2436.8",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5553100001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "1843.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "1846.9",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "1845.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "1847.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "1849.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "1850.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "1853.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "1848.5",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5553100002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "35.6",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "35.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "35.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "35.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "35.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "35.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "35.5",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5553200001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "570.4",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "570.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "570.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "570.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "570.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "571.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "565.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "566.8",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5553200002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "34.1",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "34.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "33.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "33.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "33.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "33.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "34.2",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES5553300001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "21.0",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "21.0",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "21.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "21.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "21.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "21.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "21.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "21.5",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6054000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "10842.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "10837.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "10833.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "10815.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "10808.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "10795.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "10810.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "10790.4",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6054000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "37.4",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "37.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "37.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "37.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "37.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "37.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "37.4",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6054110001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "1245.9",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "1245.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "1244.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "1238.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "1237.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "1234.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "1234.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "1233.9",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6054110002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "36.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "36.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "36.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "36.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "36.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "36.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "36.3",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6054150001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "2362.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "2363.6",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "2368.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "2370.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "2369.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "2369.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "2379.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "2374.2",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6054150002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "38.6",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "38.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "38.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "38.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "38.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "38.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "38.6",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6055000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "2621.9",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "2621.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "2616.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "2617.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "2613.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "2616.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "2618.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "2619.6",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6055000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "38.5",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "38.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "38.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "38.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "38.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "38.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "38.2",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6056000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "9062.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "9058.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "9051.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "9033.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "9037.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "9028.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "8984.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "8998.2",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6056000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "35.5",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "35.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "35.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "35.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "35.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "35.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "35.4",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6056100001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "8537.9",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "8532.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "8525.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "8507.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "8511.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "8503.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "8459.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "8475.3",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6056100002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "35.1",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "34.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "35.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "35.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "34.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "35.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "35.2",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6056200001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "524.8",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "526.0",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "526.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "525.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "526.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "525.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "524.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "522.9",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6056200002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "41.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "42.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "42.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "42.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "42.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "42.5",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "41.8",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6500000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "27974",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "27945",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "27933",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "27883",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "27859",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "27792",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "27697",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "27746",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6500000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "32.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "32.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "32.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "32.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "32.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "32.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "32.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "32.7",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6561000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "4045.4",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "4044.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "4045.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "4034.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "4044.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "4035.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "4033.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "4052.0",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6562000001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "23928.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "23900.3",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "23887.2",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "23848.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "23813.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "23756.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "23664.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "23694.4",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6562000002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "32.8",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "32.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "32.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "32.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "32.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "32.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "32.7",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6562100001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "9248.5",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "9241.4",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "9227.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "9224.8",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "9202.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "9184.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "9124.4",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "9160.7",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6562100002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "31.7",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "31.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "31.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "31.7",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "31.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "31.6",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "31.8",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6562200001",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "5776.5",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "5768.9",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "5771.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "5761.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "5758.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "5755.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "5742.9",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "5734.1",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "CES6562200002",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "latest": "true",
+            "value": "36.4",
+            "footnotes": [
+              {
+                "code": "P",
+                "text": "preliminary"
+              }
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "36.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "36.3",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "36.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "36.0",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "36.1",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "36.1",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "retrieved_at_utc": "2026-09-14T19:25:05.515287+00:00",
+  "source_url": "https://api.bls.gov/publicAPI/v2/timeseries/data/"
+}

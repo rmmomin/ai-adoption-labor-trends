@@ -1,0 +1,43 @@
+{
+  "date": "2006-08-01",
+  "raw_records": 154149,
+  "employed_sample": 68406,
+  "employed_persons": 145379315.8001,
+  "dictionary": "augnov05dd.txt",
+  "dictionary_sha256": "338fc213573d58c233b1a61c015a1e8b3055459990df398f08fb560b9f31462a",
+  "raw_sha256": "4c7972e440710e7d44e18a029563135ea90a717e4483d5263a167f071e680174",
+  "fields": {
+    "HRMONTH": [
+      16,
+      17
+    ],
+    "HRYEAR4": [
+      18,
+      21
+    ],
+    "PEMLR": [
+      180,
+      181
+    ],
+    "PEIO1COW": [
+      432,
+      433
+    ],
+    "PEIO1ICD": [
+      856,
+      859
+    ],
+    "PWCMPWGT": [
+      846,
+      855
+    ],
+    "PEHRACT1": [
+      243,
+      244
+    ],
+    "PRTAGE": [
+      122,
+      123
+    ]
+  }
+}

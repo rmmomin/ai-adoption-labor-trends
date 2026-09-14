@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.industry",
+  "file": "bls/ce.industry",
+  "bytes": 58769,
+  "sha256": "9ad5e0a5426fcbe71d98510e04256bc08fc0e0758427fd4b0c26d8b6358290f2",
+  "retrieved_at_utc": "2026-09-14T19:20:23.624261+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:05 GMT"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings",
+  "file": "bls/ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings",
+  "bytes": 2282729,
+  "sha256": "2107283de1c7c75e28ebfe1a51d5a38e69f8b4d78802e4cb7567227336d663ed",
+  "retrieved_at_utc": "2026-09-14T19:17:04.933080+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:11 GMT"
+}

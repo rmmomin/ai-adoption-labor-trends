@@ -1,0 +1,43 @@
+{
+  "date": "2007-10-01",
+  "raw_records": 151370,
+  "employed_sample": 66323,
+  "employed_persons": 146742816.6466,
+  "dictionary": "jan07dd.txt",
+  "dictionary_sha256": "4afc9a2825f4ec4d821b41ee8822385305efc6a0de20ef12650a97d31879f035",
+  "raw_sha256": "2da3cdccf51f2c57c8575de1f939ac39a963e13771b3ee1c59a5b7637c79ee5b",
+  "fields": {
+    "HRMONTH": [
+      16,
+      17
+    ],
+    "HRYEAR4": [
+      18,
+      21
+    ],
+    "PEMLR": [
+      180,
+      181
+    ],
+    "PEIO1COW": [
+      432,
+      433
+    ],
+    "PEIO1ICD": [
+      856,
+      859
+    ],
+    "PWCMPWGT": [
+      846,
+      855
+    ],
+    "PEHRACT1": [
+      243,
+      244
+    ],
+    "PRTAGE": [
+      122,
+      123
+    ]
+  }
+}

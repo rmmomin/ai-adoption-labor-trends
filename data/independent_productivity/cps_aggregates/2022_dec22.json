@@ -1,0 +1,43 @@
+{
+  "date": "2022-12-01",
+  "raw_records": 125489,
+  "employed_sample": 46577,
+  "employed_persons": 158871809.763,
+  "dictionary": "2022_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+  "dictionary_sha256": "ed98d01f7d301f32e750a2ba6c1e32756179c74f703a0703170997f1d514898f",
+  "raw_sha256": "f427affdabf080359d46331c9db78190322a15503dd104a2ba876fd073feda03",
+  "fields": {
+    "HRMONTH": [
+      16,
+      17
+    ],
+    "HRYEAR4": [
+      18,
+      21
+    ],
+    "PEMLR": [
+      180,
+      181
+    ],
+    "PEIO1COW": [
+      432,
+      433
+    ],
+    "PEIO1ICD": [
+      856,
+      859
+    ],
+    "PWCMPWGT": [
+      846,
+      855
+    ],
+    "PEHRACT1": [
+      243,
+      244
+    ],
+    "PRTAGE": [
+      122,
+      123
+    ]
+  }
+}

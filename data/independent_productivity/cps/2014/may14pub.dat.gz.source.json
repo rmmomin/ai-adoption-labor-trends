@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/may14pub.dat.gz",
+  "file": "cps/2014/may14pub.dat.gz",
+  "bytes": 13048480,
+  "sha256": "3b4c71bd2938ca74da87990c7c1478d4904da628485890f11276ba7d45d2b9a9",
+  "retrieved_at_utc": "2026-09-14T19:43:28.900854+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:30:18 GMT"
+}

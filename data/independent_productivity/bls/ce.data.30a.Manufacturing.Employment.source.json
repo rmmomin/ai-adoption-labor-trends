@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.30a.Manufacturing.Employment",
+  "file": "bls/ce.data.30a.Manufacturing.Employment",
+  "bytes": 340447,
+  "sha256": "de687440cf0fe3488bc0b0d756fa11997e3825d0eefea338a1cb2ddab9b19c4c",
+  "retrieved_at_utc": "2026-09-14T19:17:04.012462+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+}

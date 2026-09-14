@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings",
+  "file": "bls/ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings",
+  "bytes": 261353,
+  "sha256": "7fd84e90ad54b029a0f8f97dacb69dd458da2805288cb640bb88efba3b8b598c",
+  "retrieved_at_utc": "2026-09-14T19:17:05.212752+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+}

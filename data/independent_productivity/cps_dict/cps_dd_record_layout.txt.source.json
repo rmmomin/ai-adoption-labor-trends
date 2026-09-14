@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/cps_dd_record_layout.txt",
+  "file": "cps_dict/cps_dd_record_layout.txt",
+  "bytes": 171900,
+  "sha256": "b6ada4b0fc1f288e47794e73ea2165674ee571924eec55239fbebd4a97994940",
+  "retrieved_at_utc": "2026-09-14T19:25:35.958491+00:00",
+  "last_modified": "Wed, 12 Aug 2026 14:00:27 GMT"
+}

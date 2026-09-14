@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.50a.Information.Employment",
+  "file": "bls/ce.data.50a.Information.Employment",
+  "bytes": 2509239,
+  "sha256": "64449819e2f8045d19269b1d2ef7faff6609a289ce04aac2d5c3e1bbfbf59989",
+  "retrieved_at_utc": "2026-09-14T19:19:25.734364+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:14 GMT"
+}

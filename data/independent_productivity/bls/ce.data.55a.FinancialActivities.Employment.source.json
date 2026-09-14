@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.55a.FinancialActivities.Employment",
+  "file": "bls/ce.data.55a.FinancialActivities.Employment",
+  "bytes": 5859347,
+  "sha256": "a8389e813d0c337002b1127e5cdd0f6a682570bdd6bb27d09f82445126c6723f",
+  "retrieved_at_utc": "2026-09-14T19:19:43.856624+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:14 GMT"
+}

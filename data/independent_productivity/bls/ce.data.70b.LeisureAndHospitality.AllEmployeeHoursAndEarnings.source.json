@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.70b.LeisureAndHospitality.AllEmployeeHoursAndEarnings",
+  "file": "bls/ce.data.70b.LeisureAndHospitality.AllEmployeeHoursAndEarnings",
+  "bytes": 7036679,
+  "sha256": "480770d784bb1d0fc1f07a50ee2403e9fa2a970e986baff7a3011818753e49bf",
+  "retrieved_at_utc": "2026-09-14T19:20:25.998747+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+}

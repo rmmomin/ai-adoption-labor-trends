@@ -1,0 +1,43 @@
+{
+  "date": "2014-01-01",
+  "raw_records": 150770,
+  "employed_sample": 61259,
+  "employed_persons": 143526011.51270002,
+  "dictionary": "January_2014_Record_Layout.txt",
+  "dictionary_sha256": "8176d1a0f7cffc4f98744240848c3a8c562b172312415c29f0afca0a19a41d32",
+  "raw_sha256": "1a7c63e8b67094ad9e0ed25eefec5a217a2ed25da99411b37802521d15e9af8e",
+  "fields": {
+    "HRMONTH": [
+      16,
+      17
+    ],
+    "HRYEAR4": [
+      18,
+      21
+    ],
+    "PEMLR": [
+      180,
+      181
+    ],
+    "PEIO1COW": [
+      432,
+      433
+    ],
+    "PEIO1ICD": [
+      856,
+      859
+    ],
+    "PWCMPWGT": [
+      846,
+      855
+    ],
+    "PEHRACT1": [
+      243,
+      244
+    ],
+    "PRTAGE": [
+      122,
+      123
+    ]
+  }
+}

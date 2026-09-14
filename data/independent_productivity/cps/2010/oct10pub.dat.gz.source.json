@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/oct10pub.dat.gz",
+  "file": "cps/2010/oct10pub.dat.gz",
+  "bytes": 13086075,
+  "sha256": "59519244e94535af15d4bfe145866e7603868bf435d73cd72215e1fb38f8423f",
+  "retrieved_at_utc": "2026-09-14T19:25:35.060121+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:18:35 GMT"
+}

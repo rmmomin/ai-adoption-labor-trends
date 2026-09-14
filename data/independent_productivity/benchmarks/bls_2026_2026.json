@@ -1,0 +1,114 @@
+{
+  "status": "REQUEST_SUCCEEDED",
+  "responseTime": 69,
+  "message": [],
+  "Results": {
+    "series": [
+      {
+        "seriesID": "PRS85006093",
+        "data": [
+          {
+            "year": "2026",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "latest": "true",
+            "value": "120.017",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "119.594",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "LNU02000000",
+        "data": [
+          {
+            "year": "2026",
+            "period": "M08",
+            "periodName": "August",
+            "latest": "true",
+            "value": "162667",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M07",
+            "periodName": "July",
+            "value": "162800",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M06",
+            "periodName": "June",
+            "value": "162722",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M05",
+            "periodName": "May",
+            "value": "162897",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M04",
+            "periodName": "April",
+            "value": "162781",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M03",
+            "periodName": "March",
+            "value": "162764",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M02",
+            "periodName": "February",
+            "value": "162153",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2026",
+            "period": "M01",
+            "periodName": "January",
+            "value": "161670",
+            "footnotes": [
+              {
+                "code": "12",
+                "text": "January 2026 estimates were revised to incorporate updated population controls. For more information, see www.bls.gov/cps/documentation.htm#pop."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

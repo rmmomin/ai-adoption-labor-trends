@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/feb15pub.dat.gz",
+  "file": "cps/2015/feb15pub.dat.gz",
+  "bytes": 13044120,
+  "sha256": "c80f7a7fb421ed5baf9566db1a040d3e80b9c41e3230d590550bdddc5b32e0e9",
+  "retrieved_at_utc": "2026-09-14T19:43:06.977544+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:31:31 GMT"
+}

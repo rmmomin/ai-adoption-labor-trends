@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/January_2013_Record_Layout.txt",
+  "file": "cps_dict/January_2013_Record_Layout.txt",
+  "bytes": 100460,
+  "sha256": "7e8fbc432f2bd7bce54737e270492a5f6b725afcaf1a6ee6e15015b2fe20e29b",
+  "retrieved_at_utc": "2026-09-14T19:30:42.226378+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:29:06 GMT"
+}

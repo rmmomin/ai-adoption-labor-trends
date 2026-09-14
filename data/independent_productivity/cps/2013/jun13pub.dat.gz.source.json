@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/jun13pub.dat.gz",
+  "file": "cps/2013/jun13pub.dat.gz",
+  "bytes": 12955248,
+  "sha256": "38563ddd60156d5cd2a2dd7399a9c5f3d2341a4b7c2ec35322cc8e68106b42ac",
+  "retrieved_at_utc": "2026-09-14T19:43:14.034112+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:29:09 GMT"
+}

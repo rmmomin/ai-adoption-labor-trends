@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.65a.EducationAndHealthCare.Employment",
+  "file": "bls/ce.data.65a.EducationAndHealthCare.Employment",
+  "bytes": 6841993,
+  "sha256": "2534bf8735928f237e6d27e972b68f8dbd7f7d1fd664a558ec213cef524876b8",
+  "retrieved_at_utc": "2026-09-14T19:20:16.397041+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+}

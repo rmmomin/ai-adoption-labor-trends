@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/January_2015_Record_Layout.txt",
+  "file": "cps_dict/January_2015_Record_Layout.txt",
+  "bytes": 108124,
+  "sha256": "8ccf5ac8232a61588c68764fe945fe251613db3f1259b4feb066876431e31a65",
+  "retrieved_at_utc": "2026-09-14T19:30:00.299387+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:31:35 GMT"
+}

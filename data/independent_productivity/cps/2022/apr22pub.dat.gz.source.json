@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/apr22pub.dat.gz",
+  "file": "cps/2022/apr22pub.dat.gz",
+  "bytes": 10848784,
+  "sha256": "c3cbec8a64d7e642e112f01b93801bcb323a074503ef808d6af3b63dc2b37b99",
+  "retrieved_at_utc": "2026-09-14T19:44:57.193635+00:00",
+  "last_modified": "Wed, 11 May 2022 16:11:58 GMT"
+}

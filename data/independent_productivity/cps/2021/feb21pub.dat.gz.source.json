@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/feb21pub.dat.gz",
+  "file": "cps/2021/feb21pub.dat.gz",
+  "bytes": 11321728,
+  "sha256": "b6414f23ee9253d39cb60a9e9a6936995e3eba3d7bc315d10f57e82fdbc560f3",
+  "retrieved_at_utc": "2026-09-14T19:45:00.312145+00:00",
+  "last_modified": "Wed, 10 Mar 2021 16:58:40 GMT"
+}

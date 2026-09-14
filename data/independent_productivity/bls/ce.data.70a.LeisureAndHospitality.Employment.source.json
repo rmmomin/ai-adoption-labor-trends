@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.70a.LeisureAndHospitality.Employment",
+  "file": "bls/ce.data.70a.LeisureAndHospitality.Employment",
+  "bytes": 4365185,
+  "sha256": "82db7962b05e231a4d2fdee0da675ad1dc1a7bf6b0eab001285db1496861ec46",
+  "retrieved_at_utc": "2026-09-14T19:20:17.959707+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+}

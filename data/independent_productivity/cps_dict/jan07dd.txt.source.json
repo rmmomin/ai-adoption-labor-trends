@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/jan07dd.txt",
+  "file": "cps_dict/jan07dd.txt",
+  "bytes": 148637,
+  "sha256": "4afc9a2825f4ec4d821b41ee8822385305efc6a0de20ef12650a97d31879f035",
+  "retrieved_at_utc": "2026-09-14T19:20:50.845148+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:03:30 GMT"
+}

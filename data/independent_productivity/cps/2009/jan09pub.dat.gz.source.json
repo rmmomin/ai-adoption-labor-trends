@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/jan09pub.dat.gz",
+  "file": "cps/2009/jan09pub.dat.gz",
+  "bytes": 12952961,
+  "sha256": "331470542e1c4200ad0b1191cf2cb834160751ee461e6fa5885ffd11d402d882",
+  "retrieved_at_utc": "2026-09-14T19:29:11.030720+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:15:23 GMT"
+}

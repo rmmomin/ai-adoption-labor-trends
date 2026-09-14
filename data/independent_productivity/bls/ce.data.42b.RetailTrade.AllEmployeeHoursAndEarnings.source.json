@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.42b.RetailTrade.AllEmployeeHoursAndEarnings",
+  "file": "bls/ce.data.42b.RetailTrade.AllEmployeeHoursAndEarnings",
+  "bytes": 10649681,
+  "sha256": "86426f18e8547f21a0bbb03453ebde84fd5330991e57c670d3cb4faf0b6038ef",
+  "retrieved_at_utc": "2026-09-14T19:19:16.379281+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:13 GMT"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/jan10dd.txt",
+  "file": "cps_dict/jan10dd.txt",
+  "bytes": 149606,
+  "sha256": "a0b081d60d4e78ff32ca18e64b2833373cbcfdfa8012ecdac143583c0d97545a",
+  "retrieved_at_utc": "2026-09-14T19:25:09.509891+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:18:13 GMT"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.60b.ProfessionalBusinessServices.AllEmployeeHoursAndEarnings",
+  "file": "bls/ce.data.60b.ProfessionalBusinessServices.AllEmployeeHoursAndEarnings",
+  "bytes": 13311893,
+  "sha256": "42c86da99e40eab89191154d7e943c294ed69e6649ef64384213602525fd85f0",
+  "retrieved_at_utc": "2026-09-14T19:20:16.660643+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:15 GMT"
+}

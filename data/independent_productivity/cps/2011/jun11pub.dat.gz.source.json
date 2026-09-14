@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/jun11pub.dat.gz",
+  "file": "cps/2011/jun11pub.dat.gz",
+  "bytes": 13014846,
+  "sha256": "2f44f91e11dff489d21fac07c0f57883964153ec38c68dba7fb906d1a9f81736",
+  "retrieved_at_utc": "2026-09-14T19:28:52.670439+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:23:15 GMT"
+}

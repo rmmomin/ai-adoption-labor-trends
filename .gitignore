@@ -3,7 +3,14 @@
 .venv/
 __pycache__/
 *.pyc
+.research-runtime/
 
 # Generated artifacts
 outputs/
 bls_cache/
+
+# Large reproducible source downloads; URLs and hashes remain versioned.
+data/independent_productivity/cps/**/*.dat.gz
+data/independent_productivity/bls/ce.data.*
+!data/independent_productivity/bls/ce.data.*.source.json
+*.partial

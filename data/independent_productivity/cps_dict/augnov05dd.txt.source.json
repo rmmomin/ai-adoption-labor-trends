@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2005/basic/augnov05dd.txt",
+  "file": "cps_dict/augnov05dd.txt",
+  "bytes": 148299,
+  "sha256": "338fc213573d58c233b1a61c015a1e8b3055459990df398f08fb560b9f31462a",
+  "retrieved_at_utc": "2026-09-14T19:18:00.973147+00:00",
+  "last_modified": "Wed, 08 Jan 2020 15:43:28 GMT"
+}

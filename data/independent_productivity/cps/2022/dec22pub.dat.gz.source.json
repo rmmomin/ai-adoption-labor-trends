@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/dec22pub.dat.gz",
+  "file": "cps/2022/dec22pub.dat.gz",
+  "bytes": 10418550,
+  "sha256": "f427affdabf080359d46331c9db78190322a15503dd104a2ba876fd073feda03",
+  "retrieved_at_utc": "2026-09-14T19:45:07.460786+00:00",
+  "last_modified": "Wed, 11 Jan 2023 19:22:55 GMT"
+}

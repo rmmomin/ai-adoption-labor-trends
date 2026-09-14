@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/cps_industry_codes.csv",
+  "file": "cps_dict/cps_industry_codes_2026.csv",
+  "bytes": 21255,
+  "sha256": "482e5ce9b8c84c73cca36ce1eb9577fbc0d012828c1d7f08af2c1a9719afc9d5",
+  "retrieved_at_utc": "2026-09-14T19:45:03.325813+00:00",
+  "last_modified": "Wed, 08 Jul 2026 15:00:26 GMT"
+}

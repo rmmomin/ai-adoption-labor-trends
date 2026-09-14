@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/feb12pub.dat.gz",
+  "file": "cps/2012/feb12pub.dat.gz",
+  "bytes": 12893627,
+  "sha256": "c654fc5a626adddcc5904d29dd8284db3b667dad54a8b8d35d7a9d2fa282dcd3",
+  "retrieved_at_utc": "2026-09-14T19:43:33.358533+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:26:05 GMT"
+}

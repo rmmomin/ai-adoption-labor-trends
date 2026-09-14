@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.10a.MiningAndLogging.Employment",
+  "file": "bls/ce.data.10a.MiningAndLogging.Employment",
+  "bytes": 2148053,
+  "sha256": "35e4714a128ee4df9557073c31dca4d65bcf8e4483ca30204003516e689a5b21",
+  "retrieved_at_utc": "2026-09-14T19:17:01.036201+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:11 GMT"
+}

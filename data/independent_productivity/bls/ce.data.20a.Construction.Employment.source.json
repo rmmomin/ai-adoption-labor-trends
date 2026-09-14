@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.20a.Construction.Employment",
+  "file": "bls/ce.data.20a.Construction.Employment",
+  "bytes": 4795843,
+  "sha256": "3b857b86264db9ff32305b09fdd74226f007f4e6742fa97ca1273d1f943ce540",
+  "retrieved_at_utc": "2026-09-14T19:17:04.651693+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:11 GMT"
+}

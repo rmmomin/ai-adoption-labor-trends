@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.series",
+  "file": "bls/ce.series",
+  "bytes": 3941924,
+  "sha256": "e6d20c4b302557fe2a79e16362c4a943bbc0fc5961ffcc4d66c0d59ba500ebff",
+  "retrieved_at_utc": "2026-09-14T19:20:37.444180+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:17 GMT"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.31a.ManufacturingDurableGoods.Employment",
+  "file": "bls/ce.data.31a.ManufacturingDurableGoods.Employment",
+  "bytes": 10113287,
+  "sha256": "b2cf528b08d4ee56b3d3bfbcec36e69f03df3fe8ead923a4834b0bc835385cd8",
+  "retrieved_at_utc": "2026-09-14T19:17:32.874223+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/mar08pub.dat.gz",
+  "file": "cps/2008/mar08pub.dat.gz",
+  "bytes": 12672448,
+  "sha256": "30b937c6314f327ab698c6f55c4fc3e66ac0522f6c478af8c19885180530d9c4",
+  "retrieved_at_utc": "2026-09-14T19:24:40.030704+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:12:28 GMT"
+}

@@ -1,0 +1,299 @@
+﻿ROW_TYPE,Industry 2025 Description,2022 Industry Code,2022 NAICS Code,2022 NAICS Based Code
+intro-range,"Agriculture, Forestry, Fishing and Hunting, and Mining",0170 - 0490,,
+intro-range,Construction,0770,,
+intro-range,Manufacturing,1070 - 3990,,
+intro-range,Wholesale Trade,4070 - 4590,,
+intro-range,Retail Trade,4670 - 5791,,
+intro-range,"Transportation and Warehousing, and Utilities","6070 - 6390, 0570 - 0690",,
+intro-range,Information,6471 - 6781,,
+intro-range,"Finance and Insurance, and Real Estate and Rental and Leasing",6871 - 7190,,
+intro-range,"Professional, Scientific, and Management, and Administrative and Waste Management Services",7270 - 7790,,
+intro-range,"Educational Services, and Health Care and Social Assistance",7860 - 8470,,
+intro-range,"Arts, Entertainment, and Recreation, and Accommodation and Food Services",8561 - 8690,,
+intro-range,Other Services (except Public Administration),8770 - 9290,,
+intro-range,Public Administration,9370 - 9590,,
+intro-range,Military,9890,,
+sub-sector,"Agriculture, Forestry, Fishing, and Hunting, and Mining",0170-0490,11-21,11-21
+sub-sector,"Agriculture, Forestry, Fishing, and Hunting",0170-0290,11,11
+detail,Crop production,0170,111,111
+detail,Animal production and aquaculture,0180,112,112
+detail,Forestry except logging,0190,"1131, 1132",113M
+detail,Logging,0270,1133,1133
+detail,"Fishing, hunting and trapping",0280,114,114
+detail,Support activities for agriculture and forestry,0290,115,115
+sub-sector,"Mining, Quarrying, and Oil and Gas Extraction",0370-0490,21,21
+detail,Oil and gas extraction,0370,211,211
+detail,Metal ore mining,0390,2122,2122
+detail,Nonmetallic mineral mining and quarrying,0470,2123,2123
+detail,Support activities for mining,0490,213,213
+sector,Construction,0770,23,23
+sector-note,Construction (the cleaning of buildings and dwellings is incidental during construction and immediately after construction),0770,23,23
+sector,Manufacturing,1070-3990,31-33,31-33
+detail,"Animal food, grain and oilseed milling",1070,"3111, 3112",311M1
+detail,Sugar and confectionery products,1080,3113,3113
+detail,Fruit and vegetable preserving and specialty food manufacturing,1090,3114,3114
+detail,Dairy product manufacturing,1170,3115,3115
+detail,Animal slaughtering and processing,1180,3116,3116
+detail,Retail bakeries,1190,311811,311811
+detail,"Bakeries and tortilla manufacturing, except retail bakeries",1270,3118 exc. 311811,3118Z
+detail,"Seafood and other miscellaneous foods, n.e.c.",1280,"3117, 3119",311M2
+detail,Not specified food industries,1290,Part of 311,311S
+detail,Beverage manufacturing,1370,3121,3121
+detail,Tobacco manufacturing,1390,3122,3122
+detail,"Fiber, yarn, and thread mills",1470,3131,3131
+detail,"Fabric mills, except knit fabric mills",1480,3132 exc. 31324,3132Z
+detail,Textile and fabric finishing and fabric coating mills,1490,3133,3133
+detail,Carpet and rug mills,1570,31411,31411
+detail,"Textile product mills, except carpet and rug",1590,314 exc. 31411,314Z
+detail,"Knit fabric mills, and apparel knitting mills",1670,"31324, 3151",31M
+detail,"Cut and sew, and apparel accessories and other apparel manufacturing",1691,"3152, 3159",315M
+detail,Footwear manufacturing,1770,3162,3162
+detail,"Leather and hide tanning and finishing, and other leather and allied product manufacturing",1790,"3161, 3169",316M
+detail,"Pulp, paper, and paperboard mills",1870,3221,3221
+detail,Paperboard container manufacturing,1880,32221,32221
+detail,Miscellaneous paper and pulp products,1890,"32222,32223, 32229",3222M
+detail,Printing and related support activities,1990,3231,3231
+detail,Petroleum refineries,2070,32411,32411
+detail,"Petroleum and coal products manufacturing, exc. refineries",2090,"32412, 32419",3241M
+detail,"Resin, synthetic rubber, and fibers and filaments manufacturing",2170,3252,3252
+detail,"Pesticide, Fertilizer, and other agricultural chemical manufacturing",2180,3253,3253
+detail,Pharmaceutical and medicine manufacturing,2190,3254,3254
+detail,"Paint, coating, and adhesive manufacturing",2270,3255,3255
+detail,"Soap, cleaning compound, and toilet preparation manufacturing",2280,3256,3256
+detail,"Basic chemical manufacturing, and other chemical product and preparation manufacturing",2290,"3251, 3259",325M
+detail,Plastics product manufacturing,2370,3261,3261
+detail,Tire manufacturing,2380,32621,32621
+detail,"Rubber products, except tires, manufacturing",2390,"32622, 32629",3262M
+detail,"Pottery, ceramics, and plumbing fixture manufacturing",2470,32711,32711
+detail,Clay building material and refractories manufacturing,2480,327120,327120
+detail,Glass and glass product manufacturing,2490,3272,3272
+detail,"Cement, concrete, lime, and gypsum product manufacturing",2570,"3273, 3274",327M
+detail,Miscellaneous nonmetallic mineral product manufacturing,2590,3279,3279
+detail,Iron and steel mills and steel product manufacturing,2670,"3311, 3312",331M
+detail,Aluminum production and processing,2680,3313,3313
+detail,Nonferrous metal (except aluminum) production and processing,2690,3314,3314
+detail,Foundries,2770,3315,3315
+detail,Metal forgings and stampings,2780,3321,3321
+detail,Cutlery and hand tool manufacturing,2790,3322,3322
+detail,"Architectural and Structural metals, and boiler, tank, and shipping container manufacturing",2870,"3323, 3324",332M
+detail,"Machine shops; turned product; screw, nut, and bolt manufacturing",2880,3327,3327
+detail,"Coating, engraving, heat treating, and allied activities",2890,3328,3328
+detail,Ordnance,2970,"332992, 332993, 332994, 332996",33299M
+detail,Miscellaneous fabricated metal products manufacturing,2980,"3325, 3326, 3329 exc. 332992, 332993, 332994 332996",332MZ
+detail,Not specified metal industries,2990,Part of 331 and 332,33MS
+detail,Agricultural implement manufacturing,3070,33311,33311
+detail,"Construction, and mining and oil and gas field machinery manufacturing",3080,"33312, 33313",3331M
+detail,Commercial and service industry machinery manufacturing,3095,3333,3333
+detail,Metalworking machinery manufacturing,3170,3335,3335
+detail,"Engine, turbine, and power transmission equipment manufacturing",3180,3336,3336
+detail,"Machinery manufacturing, n.e.c. or not specified",3291,"3332, 3334, 3339, Part of 333",333MS
+detail,Computer and peripheral equipment manufacturing,3365,3341,3341
+detail,"Communications, audio, and video equipment manufacturing",3370,"3342, 3343",334M1
+detail,"Navigational, measuring, electromedical, and control instruments manufacturing",3380,3345,3345
+detail,"Semiconductor, magnetic and optical media, and other electronic component manufacturing",3390,"3344, 3346",334M2
+detail,Household appliance manufacturing,3470,3352,3352
+detail,"Electric lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.",3490,"3351, 3353, 3359",335M
+detail,Motor vehicles and motor vehicle equipment manufacturing,3570,"3361, 3362, 3363",336M
+detail,"Aircraft, aircraft engine, and aircraft parts manufacturing",3580,"336411, 336412, 336413",33641M1
+detail,Guided missile and space vehicle and parts manufacturing,3590,"336414, 336415, 336419",33641M2
+detail,Railroad rolling stock manufacturing,3670,3365,3365
+detail,Ship and boat building,3680,3366,3366
+detail,Other transportation equipment manufacturing,3690,3369,3369
+detail,Sawmills and wood preservation,3770,3211,3211
+detail,"Veneer, plywood, and engineered wood products",3780,3212,3212
+detail,Manufactured home (mobile home) and prefabricated wood building manufacturing,3790,"321991, 321992",32199M
+detail,Miscellaneous wood products,3875,"3219 exc. 321991, 321992",3219ZM
+detail,Furniture and related product manufacturing,3895,337,337
+detail,Medical equipment and supplies manufacturing,3960,3391,3391
+detail,"Sporting and athletic goods, and doll, toy and game manufacturing",3970,"33992, 33993",3399M
+detail,"Miscellaneous manufacturing, n.e.c.",3980,"3399 exc. 33992, 33993",3399ZM
+detail,Not specified manufacturing industries,3990,"Part of 31, 32, 33",3MS
+sub-sector,Wholesale Trade,4070-4590,42,42
+detail,Motor vehicle and motor vehicle parts and supplies merchant wholesalers,4070,4231,4231
+detail,Furniture and home furnishing merchant wholesalers,4080,4232,4232
+detail,Lumber and other construction materials merchant wholesalers,4090,4233,4233
+detail,Professional and commercial equipment and supplies merchant wholesalers,4170,4234,4234
+detail,"Metals and minerals, except petroleum, merchant wholesalers",4180,4235,4235
+detail,Household appliances and electrical and electronic goods merchant wholesalers,4195,4236,4236
+detail,"Hardware, and plumbing and heating equipment and supplies merchant wholesalers",4265,4237,4237
+detail,"Machinery, equipment, and supplies merchant wholesalers",4270,4238,4238
+detail,Recyclable material merchant wholesalers,4280,42393,42393
+detail,"Miscellaneous durable goods, exc. recyclable materials merchant wholesalers",4290,4239 exc. 42393,4239Z
+detail,Paper and paper products merchant wholesalers,4370,4241,4241
+detail,"Drugs, druggists' sundries, and chemical and allied products merchant  wholesalers",4380,"4242, 4246",424M
+detail,"Apparel, piece goods, and notions merchant wholesalers",4390,4243,4243
+detail,Grocery and related product merchant wholesalers,4470,4244,4244
+detail,Farm product raw material merchant wholesalers,4480,4245,4245
+detail,Petroleum and petroleum products merchant wholesalers,4490,4247,4247
+detail,"Beer, wine, and distilled alcoholic beverage merchant wholesalers",4560,4248,4248
+detail,Farm supplies merchant wholesalers,4570,42491,42491
+detail,Miscellaneous nondurable goods merchant wholesalers,4580,4249 exc. 42491,4249Z
+detail,Wholesale trade agents and brokers,4585,4251,4251
+detail,Not specified wholesale trade,4590,Part of 42,42S
+sub-sector,Retail Trade,4670-5790,44-45,44-45
+detail,Automobile dealers,4670,4411,4411
+detail,Other motor vehicle dealers,4681,4412,4412
+detail,"Automotive parts, accessories, and tire retailers",4691,4413,4413
+detail,Furniture and home furnishings retailers,4771,442,442
+detail,Electronics retailers,4796,443142,443142
+detail,Building material and supplies dealers,4871,4441 exc. 44413,4441Z
+detail,Hardware retailers,4881,44413,44413
+detail,Lawn and garden equipment and supplies retailers,4891,4442,4442
+detail,Supermarkets and Other Grocery (except Convenience) retailers,4971,44511,44511
+detail,Convenience retailers,4973,44512,44512
+detail,Specialty food retailers,4981,4452,4452
+detail,"Beer, wine, and liquor retailers",4991,4453,4453
+detail,Pharmacies and drug retailers,5071,44611,44611
+detail,"Health and personal care, except drug, retailers",5081,446 exc. 44611,446Z
+detail,Gasoline stations,5090,447,447
+detail,Clothing retailers,5171,4481,4481
+detail,Shoe retailers,5181,44821,44821
+detail,"Jewelry, luggage, and leather goods retailers",5191,4483,4483
+detail,"Sporting goods, and hobby and toy retailers",5276,"45111, 45112",4511M
+detail,"Sewing, needlework, and piece goods retailers",5281,45113,45113
+detail,Musical instrument and supplies retailers,5296,45114,45114
+detail,Book retailers and news dealers,5371,45121,45121
+detail,Department stores,5382,45221,45221
+detail,"General merchandise retailers, including warehouse clubs and supercenters",5392,4523,4523
+detail,Florists,5471,4531,4531
+detail,Office supplies and stationery retailers,5481,45321,45321
+detail,Used merchandise retailers,5491,4533,4533
+detail,"Gift, novelty, and souvenir shops",5571,45322,45322
+detail,Other Miscellaneous retailers,5581,4539,4539
+detail,Fuel dealers,5680,454310,454310
+detail,Not specified retail trade,5791,"Part of 44, 45",4MS
+sub-sector,Transportation and Warehousing and Utilities,"6070-6390, 0570-0690","48-49, 22","48-49, 22"
+sub-sector,Transportation and Warehousing,6070-6390,48-49,48-49
+detail,Air transportation,6070,481,481
+detail,Rail transportation,6080,482,482
+detail,Water transportation,6090,483,483
+detail,Truck transportation,6170,484,484
+detail,"Transit and ground passenger transportation, except taxi and limousine service",6180,"4851, 4852, 4854, 4855, 4859",485M
+detail,Taxi and limousine service,6190,4853,4853
+detail,Pipeline transportation,6270,486,486
+detail,Scenic and sightseeing transportation,6280,487,487
+detail,Support activities for transportation,6290,488,488
+detail,Postal Service,6370,491,491
+detail,Couriers and messengers,6380,492,492
+detail,Warehousing and storage,6390,493,493
+sub-sector,Utilities,0570-0690,22,22
+detail,"Electric power generation, transmission and distribution",0570,2211,2211P
+detail,Natural gas distribution,0580,2212,2212P
+detail,"Electric and gas, and other combinations",0590,"Pts. 2211, 2212",221MP
+detail,"Water, steam, air-conditioning, and irrigation systems",0670,"22131, 22133",2213M
+detail,Sewage treatment facilities,0680,22132,22132
+detail,Not specified utilities,0690,Part of 22,22S
+sub-sector,Information,6471-6781,51,51
+detail,Newspaper publishers,6471,51111,51111
+detail,"Periodical, book, and directory and mailing list, and other publishers",6481,5111 exc. 51111,5111Z
+detail,Software publishers,6490,5112,5112
+detail,Motion pictures and video industries,6570,5121,5121
+detail,Sound recording industries,6590,5122,5122
+detail,Broadcasting and content providers,6671,515,515
+detail,Wired telecommunications carriers,6680,517311,517311
+detail,"Telecommunications, except wired telecommunications carriers",6690,517 exc. 517311,517Z
+detail,"Computing infrastructure providers, data processing, web hosting, and related services",6695,5182,5182
+detail,Libraries and archives,6770,51912,51912
+detail,Web search portals and all other information services,6781,"5191 exc. 51912, 51913",5191ZM
+sub-sector,"Finance and Insurance, and Real Estate, and Rental and Leasing",6870-7190,52-53,52-53
+sub-sector,Finance and Insurance,6871-6992,52,52
+detail,"Monetary authorities-central bank, and commercial banking",6871,"521, 52211,52219",52M1
+detail,"Credit unions, and savings institutions and other depository credit intermediation",6881,"52212, 52213",5221M
+detail,Nondepository credit intermediation and related activities,6890,"5222, 5223",522M
+detail,"Securities, commodities, funds, trusts, and other financial investments",6970,"523, 525",52M2
+detail,Insurance carriers,6991,5241,5241
+detail,"Agencies, brokerages, and other insurance related activities",6992,5242,5242
+sub-sector,Real Estate and Rental and Leasing,7071-7190,53,53
+detail,"Lessors of real estate, and offices of real estate agents and brokers",7071,"5311, 5312",531M
+detail,Activities related to real estate,7072,5313,5313
+detail,Automotive equipment rental and leasing,7080,5321,5321
+detail,"Consumer goods rental, and general rental centers",7181,"53221, 532281, 532282, 532283, 532284, 532289, 5323",532M2
+detail,"Commercial and industrial machinery and equipment, and nonfinancial intangible assets rental and leasing",7190,"5324, 533",53M
+sub-sector,"Professional, Scientific, and Management, and Administrative,",7270-7790,54-56,54-56
+detail,and Waste Management Services,,,
+sub-sector,"Professional, Scientific, and Technical Services",7270-7490,54,54
+detail,Legal services,7270,5411,5411
+detail,"Accounting, tax preparation, bookkeeping, and payroll services",7280,5412,5412
+detail,"Architectural, engineering, and related services",7290,5413,5413
+detail,Specialized design services,7370,5414,5414
+detail,Computer systems design and related services,7380,5415,5415
+detail,"Management, scientific, and technical consulting services",7390,5416,5416
+detail,Scientific research and development services,7460,5417,5417
+detail,"Advertising, public relations, and related services",7470,5418,5418
+detail,Veterinary services,7480,54194,54194
+detail,"Other professional, scientific, and technical, except veterinary, services",7490,5419 exc. 54194,5419Z
+detail,Management of companies and enterprises,7570,55,55
+detail,Management of companies and enterprises,7570,55,55
+sub-sector,Administrative and support and waste management services,7580-7790,56,56
+detail,Employment services,7580,5613,5613
+detail,Business support services,7590,5614,5614
+detail,Travel arrangements and reservation services,7670,5615,5615
+detail,Investigation and security services,7680,5616,5616
+detail,"Services to buildings and dwellings, except landscaping services",7690,5617 exc. 56173,5617Z
+detail,Landscaping services,7770,56173,56173
+detail,Other administrative and other support services,7780,"5611, 5612, 5619",561M
+detail,Waste management and remediation services,7790,562,562
+sub-sector,"Educational Services, and Health Care and Social Assistance",7860-8470,61-62,61-62
+sub-sector,Educational Services,7860-7890,61,61
+detail,Elementary and secondary schools,7860,6111,6111
+detail,"Junior colleges, colleges, universities, and professional schools",7870,"6112, 6113",611M1
+detail,"Business, trade and technical schools, and computer and management training",7880,"6114, 6115",611M2
+detail,"Other schools and instruction, and educational support services",7890,"6116, 6117",611M3
+sub-sector,Health Care and Social Assistance,7970-8470,62,62
+detail,Offices of physicians,7970,6211,6211
+detail,Offices of dentists,7980,6212,6212
+detail,Offices of chiropractors,7990,62131,62131
+detail,Offices of optometrists,8070,62132,62132
+detail,Offices of other health practitioners,8080,"6213 exc. 62131, 62132",6213ZM
+detail,Outpatient care centers,8090,6214,6214
+detail,Home health care services,8170,6216,6216
+detail,Other health care services,8180,"6215, 6219",621M
+detail,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",8191,"6221, 6223",622M
+detail,Psychiatric and substance abuse hospitals,8192,6222,6222
+detail,Nursing care facilities (skilled nursing facilities),8270,6231,6231
+detail,"Residential care facilities, except skilled nursing facilities",8290,"6232, 6233, 6239",623M
+detail,Individual and family services,8370,6241,6241
+detail,"Community food and housing, and emergency and other relief services",8380,6242,6242
+detail,Vocational rehabilitation services,8390,6243,6243
+detail,Child care services,8470,6244,6244
+sub-sector,"Arts, Entertainment, and Recreation, and Accommodation and Food Services",8560-8690,71-72,71-72
+sub-sector,"Arts, Entertainment, and Recreation",8560-8590,71,71
+detail,Performing arts companies,8561,7111,7111
+detail,Spectator sports,8562,7112,7112
+detail,"Promoters of performing arts, sports, and similar events, agents and managers for artists, athletes, entertainers, and other public figures",8563,"7113, 7114",711M
+detail,"Independent artists, writers, and performers",8564,7115,7115
+detail,"Museums, historical sites, and similar institutions",8570,712,712
+detail,Bowling centers,8580,71395,71395
+detail,"Other amusement, gambling, and recreation industries",8590,713 exc. 71395,713Z
+sub-sector,Accommodation and Food Services,8660-8690,72,72
+detail,Traveler accommodation,8660,7211,7211
+detail,"Recreational vehicle parks and camps, and rooming and boarding houses, dormitories, and workers' camps",8670,"7212, 7213",721M
+detail,"Food services and drinking places, except alcoholic beverages",8680,722 exc. 7224,722Z
+detail,Drinking places (alcoholic beverages),8690,7224,7224
+sub-sector,"Other Services, Except Public Administration",8770-9290,81,81
+detail,"Automotive repair and maintenance, exc. car washes",8770,8111 exc. 811192,8111Z
+detail,Car washes,8780,811192,811192
+detail,Electronic and precision equipment repair and maintenance,8790,8112,8112
+detail,Commercial and industrial machinery and equipment repair and maintenance,8870,8113,8113
+detail,Personal and household goods repair and maintenance,8891,8114,8114
+detail,Barber shops,8970,812111,812111
+detail,Beauty salons,8980,812112,812112
+detail,Nail salons and other personal care services,8990,"812113, 81219",8121M
+detail,Drycleaning and laundry services,9070,8123,8123
+detail,Death care services,9080,8122,8122
+detail,Other personal services,9090,8129,8129
+detail,Religious organizations,9160,8131,8131
+detail,"Civic, social, advocacy organizations, and grantmaking and giving services",9170,"8132, 8133, 8134",813M
+detail,Labor unions and similar labor organizations,9180,81393,81393
+detail,"Business, professional, political, and similar organizations",9190,8139 exc. 81393,8139Z
+detail,Private households,9290,814,814
+sub-sector,Public Administration,9370-9590,92,92
+detail,Executive offices and legislative bodies,9370,"92111, 92112, 92114, pt. 92115",9211MP
+detail,Public finance activities,9380,92113,92113
+detail,Other general government and support,9390,92119,92119
+detail,"Justice, public order, and safety activities",9470,"922, pt. 92115",92MP
+detail,Administration of human resource programs,9480,923,923
+detail,"Administration of environmental quality, and housing programs, urban planning and community development",9490,"924, 925",92M1
+detail,Administration of economic programs and space research and technology,9570,"926, 927",92M2
+detail,National security and international affairs,9590,928,928P
+detail,Armed Forces,9890,,

@@ -1,0 +1,2962 @@
+{
+  "status": "REQUEST_SUCCEEDED",
+  "responseTime": 112,
+  "message": [],
+  "Results": {
+    "series": [
+      {
+        "seriesID": "PRS85006093",
+        "data": [
+          {
+            "year": "2025",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "119.350",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "118.884",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "117.385",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "116.187",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "116.445",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "116.035",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "114.990",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "113.947",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "113.881",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "112.786",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "111.404",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "110.298",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "110.047",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "109.423",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "109.360",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "110.176",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "111.578",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "110.948",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "111.626",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "111.394",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "110.599",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "111.491",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "109.772",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "104.679",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "105.103",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "104.129",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "102.971",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "102.340",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "101.486",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "101.668",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "101.371",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "101.359",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "101.031",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "100.294",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "99.485",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "99.432",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "99.271",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "98.603",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "98.267",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "98.205",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "97.787",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "98.392",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "98.117",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "97.637",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "97.075",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "97.406",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "96.579",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "95.957",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "96.761",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "95.837",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "95.160",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "95.397",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "94.932",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "95.291",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "95.572",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "95.077",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "94.600",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "94.147",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "94.321",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "94.262",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "94.963",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "94.663",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "94.055",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "93.743",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "93.644",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "92.392",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "90.943",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "88.901",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "87.901",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "88.374",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "88.158",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "87.136",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "87.716",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "87.030",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "86.272",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "86.014",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "Q04",
+            "periodName": "4th Quarter",
+            "value": "85.708",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "Q03",
+            "periodName": "3rd Quarter",
+            "value": "85.157",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "Q02",
+            "periodName": "2nd Quarter",
+            "value": "85.322",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "Q01",
+            "periodName": "1st Quarter",
+            "value": "85.416",
+            "footnotes": [
+              {}
+            ]
+          }
+        ]
+      },
+      {
+        "seriesID": "LNU02000000",
+        "data": [
+          {
+            "year": "2025",
+            "period": "M12",
+            "periodName": "December",
+            "value": "163720",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M11",
+            "periodName": "November",
+            "value": "164066",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M10",
+            "periodName": "October",
+            "value": "-",
+            "footnotes": [
+              {
+                "code": "9",
+                "text": "Data unavailable due to the 2025 lapse in appropriations."
+              }
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M09",
+            "periodName": "September",
+            "value": "163894",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M08",
+            "periodName": "August",
+            "value": "163288",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M07",
+            "periodName": "July",
+            "value": "163799",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M06",
+            "periodName": "June",
+            "value": "163883",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M05",
+            "periodName": "May",
+            "value": "163401",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M04",
+            "periodName": "April",
+            "value": "164069",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M03",
+            "periodName": "March",
+            "value": "163412",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M02",
+            "periodName": "February",
+            "value": "162544",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2025",
+            "period": "M01",
+            "periodName": "January",
+            "value": "162347",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M12",
+            "periodName": "December",
+            "value": "161294",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M11",
+            "periodName": "November",
+            "value": "161456",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M10",
+            "periodName": "October",
+            "value": "161938",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M09",
+            "periodName": "September",
+            "value": "162046",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M08",
+            "periodName": "August",
+            "value": "161348",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M07",
+            "periodName": "July",
+            "value": "162038",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M06",
+            "periodName": "June",
+            "value": "161774",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M05",
+            "periodName": "May",
+            "value": "161341",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M04",
+            "periodName": "April",
+            "value": "161590",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M03",
+            "periodName": "March",
+            "value": "161356",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M02",
+            "periodName": "February",
+            "value": "160315",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2024",
+            "period": "M01",
+            "periodName": "January",
+            "value": "159650",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M12",
+            "periodName": "December",
+            "value": "160754",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M11",
+            "periodName": "November",
+            "value": "162149",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M10",
+            "periodName": "October",
+            "value": "161676",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M09",
+            "periodName": "September",
+            "value": "161669",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M08",
+            "periodName": "August",
+            "value": "161427",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M07",
+            "periodName": "July",
+            "value": "161982",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M06",
+            "periodName": "June",
+            "value": "161559",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M05",
+            "periodName": "May",
+            "value": "161002",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M04",
+            "periodName": "April",
+            "value": "161075",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M03",
+            "periodName": "March",
+            "value": "160741",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M02",
+            "periodName": "February",
+            "value": "159713",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2023",
+            "period": "M01",
+            "periodName": "January",
+            "value": "158692",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M12",
+            "periodName": "December",
+            "value": "158872",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M11",
+            "periodName": "November",
+            "value": "158749",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M10",
+            "periodName": "October",
+            "value": "159144",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M09",
+            "periodName": "September",
+            "value": "159003",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M08",
+            "periodName": "August",
+            "value": "158714",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M07",
+            "periodName": "July",
+            "value": "159067",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M06",
+            "periodName": "June",
+            "value": "158678",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M05",
+            "periodName": "May",
+            "value": "158609",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M04",
+            "periodName": "April",
+            "value": "157991",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M03",
+            "periodName": "March",
+            "value": "158106",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M02",
+            "periodName": "February",
+            "value": "156942",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2022",
+            "period": "M01",
+            "periodName": "January",
+            "value": "155618",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M12",
+            "periodName": "December",
+            "value": "155732",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M11",
+            "periodName": "November",
+            "value": "155797",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M10",
+            "periodName": "October",
+            "value": "154966",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M09",
+            "periodName": "September",
+            "value": "154026",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M08",
+            "periodName": "August",
+            "value": "153232",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M07",
+            "periodName": "July",
+            "value": "153596",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M06",
+            "periodName": "June",
+            "value": "152283",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M05",
+            "periodName": "May",
+            "value": "151778",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M04",
+            "periodName": "April",
+            "value": "151160",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M03",
+            "periodName": "March",
+            "value": "150493",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M02",
+            "periodName": "February",
+            "value": "149522",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2021",
+            "period": "M01",
+            "periodName": "January",
+            "value": "148383",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M12",
+            "periodName": "December",
+            "value": "149613",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M11",
+            "periodName": "November",
+            "value": "150203",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M10",
+            "periodName": "October",
+            "value": "150433",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M09",
+            "periodName": "September",
+            "value": "147796",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M08",
+            "periodName": "August",
+            "value": "147224",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M07",
+            "periodName": "July",
+            "value": "144492",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M06",
+            "periodName": "June",
+            "value": "142811",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M05",
+            "periodName": "May",
+            "value": "137461",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M04",
+            "periodName": "April",
+            "value": "133326",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M03",
+            "periodName": "March",
+            "value": "155167",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M02",
+            "periodName": "February",
+            "value": "158017",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2020",
+            "period": "M01",
+            "periodName": "January",
+            "value": "156994",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M12",
+            "periodName": "December",
+            "value": "158504",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M11",
+            "periodName": "November",
+            "value": "158945",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M10",
+            "periodName": "October",
+            "value": "159067",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M09",
+            "periodName": "September",
+            "value": "158478",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M08",
+            "periodName": "August",
+            "value": "157816",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M07",
+            "periodName": "July",
+            "value": "158385",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M06",
+            "periodName": "June",
+            "value": "157828",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M05",
+            "periodName": "May",
+            "value": "157152",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M04",
+            "periodName": "April",
+            "value": "156710",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M03",
+            "periodName": "March",
+            "value": "156441",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M02",
+            "periodName": "February",
+            "value": "156167",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2019",
+            "period": "M01",
+            "periodName": "January",
+            "value": "154964",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M12",
+            "periodName": "December",
+            "value": "156481",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M11",
+            "periodName": "November",
+            "value": "157015",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M10",
+            "periodName": "October",
+            "value": "156952",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M09",
+            "periodName": "September",
+            "value": "156191",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M08",
+            "periodName": "August",
+            "value": "155539",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M07",
+            "periodName": "July",
+            "value": "157004",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M06",
+            "periodName": "June",
+            "value": "156465",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M05",
+            "periodName": "May",
+            "value": "156009",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M04",
+            "periodName": "April",
+            "value": "155348",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M03",
+            "periodName": "March",
+            "value": "154877",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M02",
+            "periodName": "February",
+            "value": "154403",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2018",
+            "period": "M01",
+            "periodName": "January",
+            "value": "152848",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M12",
+            "periodName": "December",
+            "value": "153602",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M11",
+            "periodName": "November",
+            "value": "154180",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M10",
+            "periodName": "October",
+            "value": "154223",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M09",
+            "periodName": "September",
+            "value": "154494",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M08",
+            "periodName": "August",
+            "value": "153576",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M07",
+            "periodName": "July",
+            "value": "154470",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M06",
+            "periodName": "June",
+            "value": "154086",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M05",
+            "periodName": "May",
+            "value": "153407",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M04",
+            "periodName": "April",
+            "value": "153262",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M03",
+            "periodName": "March",
+            "value": "152628",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M02",
+            "periodName": "February",
+            "value": "151594",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2017",
+            "period": "M01",
+            "periodName": "January",
+            "value": "150527",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M12",
+            "periodName": "December",
+            "value": "151798",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M11",
+            "periodName": "November",
+            "value": "152385",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M10",
+            "periodName": "October",
+            "value": "152335",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M09",
+            "periodName": "September",
+            "value": "151977",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M08",
+            "periodName": "August",
+            "value": "151804",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M07",
+            "periodName": "July",
+            "value": "152437",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M06",
+            "periodName": "June",
+            "value": "151990",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M05",
+            "periodName": "May",
+            "value": "151594",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M04",
+            "periodName": "April",
+            "value": "151075",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M03",
+            "periodName": "March",
+            "value": "150738",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M02",
+            "periodName": "February",
+            "value": "150060",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2016",
+            "period": "M01",
+            "periodName": "January",
+            "value": "149037",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M12",
+            "periodName": "December",
+            "value": "149703",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M11",
+            "periodName": "November",
+            "value": "149766",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M10",
+            "periodName": "October",
+            "value": "149716",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M09",
+            "periodName": "September",
+            "value": "148980",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M08",
+            "periodName": "August",
+            "value": "149228",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M07",
+            "periodName": "July",
+            "value": "149722",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M06",
+            "periodName": "June",
+            "value": "149645",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M05",
+            "periodName": "May",
+            "value": "149349",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M04",
+            "periodName": "April",
+            "value": "148587",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M03",
+            "periodName": "March",
+            "value": "147635",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M02",
+            "periodName": "February",
+            "value": "147118",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2015",
+            "period": "M01",
+            "periodName": "January",
+            "value": "146552",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M12",
+            "periodName": "December",
+            "value": "147190",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M11",
+            "periodName": "November",
+            "value": "147666",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M10",
+            "periodName": "October",
+            "value": "147936",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M09",
+            "periodName": "September",
+            "value": "146941",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M08",
+            "periodName": "August",
+            "value": "146647",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M07",
+            "periodName": "July",
+            "value": "147265",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M06",
+            "periodName": "June",
+            "value": "147104",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M05",
+            "periodName": "May",
+            "value": "146398",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M04",
+            "periodName": "April",
+            "value": "145767",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M03",
+            "periodName": "March",
+            "value": "145090",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M02",
+            "periodName": "February",
+            "value": "144134",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2014",
+            "period": "M01",
+            "periodName": "January",
+            "value": "143526",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M12",
+            "periodName": "December",
+            "value": "144423",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M11",
+            "periodName": "November",
+            "value": "144775",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M10",
+            "periodName": "October",
+            "value": "144144",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M09",
+            "periodName": "September",
+            "value": "144651",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M08",
+            "periodName": "August",
+            "value": "144509",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M07",
+            "periodName": "July",
+            "value": "145113",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M06",
+            "periodName": "June",
+            "value": "144841",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M05",
+            "periodName": "May",
+            "value": "144432",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M04",
+            "periodName": "April",
+            "value": "143724",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M03",
+            "periodName": "March",
+            "value": "142698",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M02",
+            "periodName": "February",
+            "value": "142228",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2013",
+            "period": "M01",
+            "periodName": "January",
+            "value": "141614",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M12",
+            "periodName": "December",
+            "value": "143060",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M11",
+            "periodName": "November",
+            "value": "143549",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M10",
+            "periodName": "October",
+            "value": "144039",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M09",
+            "periodName": "September",
+            "value": "143333",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M08",
+            "periodName": "August",
+            "value": "142558",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M07",
+            "periodName": "July",
+            "value": "143126",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M06",
+            "periodName": "June",
+            "value": "143202",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M05",
+            "periodName": "May",
+            "value": "142727",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M04",
+            "periodName": "April",
+            "value": "141995",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M03",
+            "periodName": "March",
+            "value": "141412",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M02",
+            "periodName": "February",
+            "value": "140684",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2012",
+            "period": "M01",
+            "periodName": "January",
+            "value": "139944",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M12",
+            "periodName": "December",
+            "value": "140681",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M11",
+            "periodName": "November",
+            "value": "141070",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M10",
+            "periodName": "October",
+            "value": "140987",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M09",
+            "periodName": "September",
+            "value": "140502",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M08",
+            "periodName": "August",
+            "value": "140335",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M07",
+            "periodName": "July",
+            "value": "140384",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M06",
+            "periodName": "June",
+            "value": "140129",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M05",
+            "periodName": "May",
+            "value": "140028",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M04",
+            "periodName": "April",
+            "value": "139661",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M03",
+            "periodName": "March",
+            "value": "138962",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M02",
+            "periodName": "February",
+            "value": "138093",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2011",
+            "period": "M01",
+            "periodName": "January",
+            "value": "137599",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M12",
+            "periodName": "December",
+            "value": "139159",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M11",
+            "periodName": "November",
+            "value": "139415",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M10",
+            "periodName": "October",
+            "value": "139749",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M09",
+            "periodName": "September",
+            "value": "139715",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M08",
+            "periodName": "August",
+            "value": "139919",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M07",
+            "periodName": "July",
+            "value": "140134",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M06",
+            "periodName": "June",
+            "value": "139882",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M05",
+            "periodName": "May",
+            "value": "139497",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M04",
+            "periodName": "April",
+            "value": "139302",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M03",
+            "periodName": "March",
+            "value": "137983",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M02",
+            "periodName": "February",
+            "value": "137203",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2010",
+            "period": "M01",
+            "periodName": "January",
+            "value": "136809",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M12",
+            "periodName": "December",
+            "value": "137953",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M11",
+            "periodName": "November",
+            "value": "139132",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M10",
+            "periodName": "October",
+            "value": "139088",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M09",
+            "periodName": "September",
+            "value": "139079",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M08",
+            "periodName": "August",
+            "value": "140074",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M07",
+            "periodName": "July",
+            "value": "141055",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M06",
+            "periodName": "June",
+            "value": "140826",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M05",
+            "periodName": "May",
+            "value": "140363",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M04",
+            "periodName": "April",
+            "value": "140586",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M03",
+            "periodName": "March",
+            "value": "139833",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M02",
+            "periodName": "February",
+            "value": "140105",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2009",
+            "period": "M01",
+            "periodName": "January",
+            "value": "140436",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M12",
+            "periodName": "December",
+            "value": "143350",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M11",
+            "periodName": "November",
+            "value": "144609",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M10",
+            "periodName": "October",
+            "value": "145543",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M09",
+            "periodName": "September",
+            "value": "145310",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M08",
+            "periodName": "August",
+            "value": "145909",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M07",
+            "periodName": "July",
+            "value": "146867",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M06",
+            "periodName": "June",
+            "value": "146649",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M05",
+            "periodName": "May",
+            "value": "145927",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M04",
+            "periodName": "April",
+            "value": "145921",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M03",
+            "periodName": "March",
+            "value": "145108",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M02",
+            "periodName": "February",
+            "value": "144550",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2008",
+            "period": "M01",
+            "periodName": "January",
+            "value": "144607",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M12",
+            "periodName": "December",
+            "value": "146334",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M11",
+            "periodName": "November",
+            "value": "147118",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M10",
+            "periodName": "October",
+            "value": "146743",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M09",
+            "periodName": "September",
+            "value": "146448",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M08",
+            "periodName": "August",
+            "value": "146406",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M07",
+            "periodName": "July",
+            "value": "147315",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M06",
+            "periodName": "June",
+            "value": "146958",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M05",
+            "periodName": "May",
+            "value": "145864",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M04",
+            "periodName": "April",
+            "value": "145297",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M03",
+            "periodName": "March",
+            "value": "145323",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M02",
+            "periodName": "February",
+            "value": "144479",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2007",
+            "period": "M01",
+            "periodName": "January",
+            "value": "144275",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M12",
+            "periodName": "December",
+            "value": "146081",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M11",
+            "periodName": "November",
+            "value": "146014",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M10",
+            "periodName": "October",
+            "value": "146125",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M09",
+            "periodName": "September",
+            "value": "145010",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M08",
+            "periodName": "August",
+            "value": "145379",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M07",
+            "periodName": "July",
+            "value": "145606",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M06",
+            "periodName": "June",
+            "value": "145216",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M05",
+            "periodName": "May",
+            "value": "144041",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M04",
+            "periodName": "April",
+            "value": "143405",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M03",
+            "periodName": "March",
+            "value": "142772",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M02",
+            "periodName": "February",
+            "value": "141994",
+            "footnotes": [
+              {}
+            ]
+          },
+          {
+            "year": "2006",
+            "period": "M01",
+            "periodName": "January",
+            "value": "141481",
+            "footnotes": [
+              {
+                "code": "1",
+                "text": "Data affected by changes in population controls."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

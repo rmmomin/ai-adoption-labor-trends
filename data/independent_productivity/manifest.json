@@ -1,0 +1,2394 @@
+[
+  {
+    "url": "https://apps.bea.gov/industry/Release/XLS/GDPxInd/ValueAdded.xlsx",
+    "file": "bea/ValueAdded.xlsx",
+    "bytes": 812286,
+    "sha256": "87b7484af9f75a06930151004f7f76a84b715e2ccb7ad20162e3c338e39b3e6c",
+    "retrieved_at_utc": "2026-09-14T19:20:25.925331+00:00",
+    "last_modified": "Thu, 25 Jun 2026 12:30:07 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.05a.TotalPrivate.Employment",
+    "file": "bls/ce.data.05a.TotalPrivate.Employment",
+    "bytes": 1002989,
+    "sha256": "1e694aa68648b643adf686019cb2b373211e15f17ed5c84fb3ae198ae600eecc",
+    "retrieved_at_utc": "2026-09-14T19:17:00.234683+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:07 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.05b.TotalPrivate.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.05b.TotalPrivate.AllEmployeeHoursAndEarnings",
+    "bytes": 576215,
+    "sha256": "6a6c012a1b05f7bbff0b5940976330169ce2e75ae02301e7e88006ddf15753bc",
+    "retrieved_at_utc": "2026-09-14T19:17:01.838737+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:07 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.10a.MiningAndLogging.Employment",
+    "file": "bls/ce.data.10a.MiningAndLogging.Employment",
+    "bytes": 2148053,
+    "sha256": "35e4714a128ee4df9557073c31dca4d65bcf8e4483ca30204003516e689a5b21",
+    "retrieved_at_utc": "2026-09-14T19:17:01.036201+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:11 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.10b.MiningAndLogging.AllEmployeeHoursAndEarnings",
+    "bytes": 2282729,
+    "sha256": "2107283de1c7c75e28ebfe1a51d5a38e69f8b4d78802e4cb7567227336d663ed",
+    "retrieved_at_utc": "2026-09-14T19:17:04.933080+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:11 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.20a.Construction.Employment",
+    "file": "bls/ce.data.20a.Construction.Employment",
+    "bytes": 4795843,
+    "sha256": "3b857b86264db9ff32305b09fdd74226f007f4e6742fa97ca1273d1f943ce540",
+    "retrieved_at_utc": "2026-09-14T19:17:04.651693+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:11 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.20b.Construction.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.20b.Construction.AllEmployeeHoursAndEarnings",
+    "bytes": 7226837,
+    "sha256": "ad820b81e4e08c093c5047dd3a378dcedbb0dd3af42b8bfbcd88afe7d3ea3b64",
+    "retrieved_at_utc": "2026-09-14T19:17:14.487322+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:11 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.30a.Manufacturing.Employment",
+    "file": "bls/ce.data.30a.Manufacturing.Employment",
+    "bytes": 340447,
+    "sha256": "de687440cf0fe3488bc0b0d756fa11997e3825d0eefea338a1cb2ddab9b19c4c",
+    "retrieved_at_utc": "2026-09-14T19:17:04.012462+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.30b.Manufacturing.AllEmployeeHoursAndEarnings",
+    "bytes": 261353,
+    "sha256": "7fd84e90ad54b029a0f8f97dacb69dd458da2805288cb640bb88efba3b8b598c",
+    "retrieved_at_utc": "2026-09-14T19:17:05.212752+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.31a.ManufacturingDurableGoods.Employment",
+    "file": "bls/ce.data.31a.ManufacturingDurableGoods.Employment",
+    "bytes": 10113287,
+    "sha256": "b2cf528b08d4ee56b3d3bfbcec36e69f03df3fe8ead923a4834b0bc835385cd8",
+    "retrieved_at_utc": "2026-09-14T19:17:32.874223+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.31b.ManufacturingDurableGoods.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.31b.ManufacturingDurableGoods.AllEmployeeHoursAndEarnings",
+    "bytes": 16109549,
+    "sha256": "58dabe7b5fd188954497d3936b03d160cbc022269338aa05b21f172cbc49c879",
+    "retrieved_at_utc": "2026-09-14T19:19:06.031593+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.32a.ManufacturingNondurableGoods.Employment",
+    "file": "bls/ce.data.32a.ManufacturingNondurableGoods.Employment",
+    "bytes": 5029041,
+    "sha256": "65101d7068d3174c1b816730b29f2252327ea3a557ea3476ecf89f705bd8ac2f",
+    "retrieved_at_utc": "2026-09-14T19:17:18.064634+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:12 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.32b.ManufacturingNondurableGoods.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.32b.ManufacturingNondurableGoods.AllEmployeeHoursAndEarnings",
+    "bytes": 6219071,
+    "sha256": "59e90f73ebe4adc1203a3d7e138f10cb54c5f969c0babde09e5c7ed277d36a71",
+    "retrieved_at_utc": "2026-09-14T19:18:48.011060+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:13 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.41a.WholesaleTrade.Employment",
+    "file": "bls/ce.data.41a.WholesaleTrade.Employment",
+    "bytes": 5914101,
+    "sha256": "1764a7afbd172fc3ae922c66933c589e9d38a3879f48fb2714013bc47fb74630",
+    "retrieved_at_utc": "2026-09-14T19:18:44.446666+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:13 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.41b.WholesaleTrade.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.41b.WholesaleTrade.AllEmployeeHoursAndEarnings",
+    "bytes": 8557943,
+    "sha256": "3044372998dcb16767f95048d3414346fda4ebf2bd9b4663075e9c0faeb4a11b",
+    "retrieved_at_utc": "2026-09-14T19:19:03.730885+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:13 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.42a.RetailTrade.Employment",
+    "file": "bls/ce.data.42a.RetailTrade.Employment",
+    "bytes": 6950943,
+    "sha256": "a6a139ec37553489097a49fab518e938c32583ded13366d6b138e55e8c4376fe",
+    "retrieved_at_utc": "2026-09-14T19:19:28.017827+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:13 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.42b.RetailTrade.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.42b.RetailTrade.AllEmployeeHoursAndEarnings",
+    "bytes": 10649681,
+    "sha256": "86426f18e8547f21a0bbb03453ebde84fd5330991e57c670d3cb4faf0b6038ef",
+    "retrieved_at_utc": "2026-09-14T19:19:16.379281+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:13 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.43a.TransportationAndWarehousingAndUtilities.Employment",
+    "file": "bls/ce.data.43a.TransportationAndWarehousingAndUtilities.Employment",
+    "bytes": 4314251,
+    "sha256": "5426ded005d99553b66c386e75bb3d089d3ba0bc75877e742520c47aab659d69",
+    "retrieved_at_utc": "2026-09-14T19:19:24.701479+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:14 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.43b.TransportationAndWarehousingAndUtilities.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.43b.TransportationAndWarehousingAndUtilities.AllEmployeeHoursAndEarnings",
+    "bytes": 6276821,
+    "sha256": "ddcb8d4b0851b76c94c27f287a14cbc96aaf2741a8ba28611b12056e11de85ab",
+    "retrieved_at_utc": "2026-09-14T19:19:30.957364+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:14 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.50a.Information.Employment",
+    "file": "bls/ce.data.50a.Information.Employment",
+    "bytes": 2509239,
+    "sha256": "64449819e2f8045d19269b1d2ef7faff6609a289ce04aac2d5c3e1bbfbf59989",
+    "retrieved_at_utc": "2026-09-14T19:19:25.734364+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:14 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.50b.Information.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.50b.Information.AllEmployeeHoursAndEarnings",
+    "bytes": 3803993,
+    "sha256": "6167b4065c3d1d425ec0fb03272c6a634aaef6357f4a4e762766256626f0f939",
+    "retrieved_at_utc": "2026-09-14T19:19:35.185875+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:14 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.55a.FinancialActivities.Employment",
+    "file": "bls/ce.data.55a.FinancialActivities.Employment",
+    "bytes": 5859347,
+    "sha256": "a8389e813d0c337002b1127e5cdd0f6a682570bdd6bb27d09f82445126c6723f",
+    "retrieved_at_utc": "2026-09-14T19:19:43.856624+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:14 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.55b.FinancialActivities.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.55b.FinancialActivities.AllEmployeeHoursAndEarnings",
+    "bytes": 9698891,
+    "sha256": "e67905e559303a58ce773726a82c0420990360850890b50b5da6af6df9e202c3",
+    "retrieved_at_utc": "2026-09-14T19:19:57.611338+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:15 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.60a.ProfessionalBusinessServices.Employment",
+    "file": "bls/ce.data.60a.ProfessionalBusinessServices.Employment",
+    "bytes": 9255877,
+    "sha256": "9421daf4485f238bb2cf015243ebfb7219ab6b9a5e93fe37407916bff02d9882",
+    "retrieved_at_utc": "2026-09-14T19:19:59.956672+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:15 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.60b.ProfessionalBusinessServices.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.60b.ProfessionalBusinessServices.AllEmployeeHoursAndEarnings",
+    "bytes": 13311893,
+    "sha256": "42c86da99e40eab89191154d7e943c294ed69e6649ef64384213602525fd85f0",
+    "retrieved_at_utc": "2026-09-14T19:20:16.660643+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:15 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.65a.EducationAndHealthCare.Employment",
+    "file": "bls/ce.data.65a.EducationAndHealthCare.Employment",
+    "bytes": 6841993,
+    "sha256": "2534bf8735928f237e6d27e972b68f8dbd7f7d1fd664a558ec213cef524876b8",
+    "retrieved_at_utc": "2026-09-14T19:20:16.397041+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.65b.EducationAndHealthCare.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.65b.EducationAndHealthCare.AllEmployeeHoursAndEarnings",
+    "bytes": 9318575,
+    "sha256": "32d493a97ac81a7314dc48cdbd33272bde85200f14630d935af689bcb07f82e6",
+    "retrieved_at_utc": "2026-09-14T19:20:22.878679+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.70a.LeisureAndHospitality.Employment",
+    "file": "bls/ce.data.70a.LeisureAndHospitality.Employment",
+    "bytes": 4365185,
+    "sha256": "82db7962b05e231a4d2fdee0da675ad1dc1a7bf6b0eab001285db1496861ec46",
+    "retrieved_at_utc": "2026-09-14T19:20:17.959707+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.70b.LeisureAndHospitality.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.70b.LeisureAndHospitality.AllEmployeeHoursAndEarnings",
+    "bytes": 7036679,
+    "sha256": "480770d784bb1d0fc1f07a50ee2403e9fa2a970e986baff7a3011818753e49bf",
+    "retrieved_at_utc": "2026-09-14T19:20:25.998747+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.80a.OtherServices.Employment",
+    "file": "bls/ce.data.80a.OtherServices.Employment",
+    "bytes": 4982737,
+    "sha256": "66bb3fe871a86de8e74a4932fe10d49e5497ef018c62d736541aada1cb663b95",
+    "retrieved_at_utc": "2026-09-14T19:20:23.913079+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.80b.OtherServices.AllEmployeeHoursAndEarnings",
+    "file": "bls/ce.data.80b.OtherServices.AllEmployeeHoursAndEarnings",
+    "bytes": 7416995,
+    "sha256": "0612532cc87e8edb8d524039b301bdce413c18ba48b8b67731324ebb866bf90c",
+    "retrieved_at_utc": "2026-09-14T19:22:24.232495+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.datatype",
+    "file": "bls/ce.datatype",
+    "bytes": 2509,
+    "sha256": "73f7305fa14f0d2fc69f1b192c352a07567b728b8cf8a3f977be0e40b8731175",
+    "retrieved_at_utc": "2026-09-14T19:20:23.271817+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:05 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.industry",
+    "file": "bls/ce.industry",
+    "bytes": 58769,
+    "sha256": "9ad5e0a5426fcbe71d98510e04256bc08fc0e0758427fd4b0c26d8b6358290f2",
+    "retrieved_at_utc": "2026-09-14T19:20:23.624261+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:05 GMT"
+  },
+  {
+    "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.series",
+    "file": "bls/ce.series",
+    "bytes": 3941924,
+    "sha256": "e6d20c4b302557fe2a79e16362c4a943bbc0fc5961ffcc4d66c0d59ba500ebff",
+    "retrieved_at_utc": "2026-09-14T19:20:37.444180+00:00",
+    "last_modified": "Thu, 25 Jun 2026 16:27:17 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/apr06pub.dat.gz",
+    "file": "cps/2006/apr06pub.dat.gz",
+    "bytes": 12596021,
+    "sha256": "4bfd3875807a2a2c2e29fb570f1d37f6fe413f94927dfb9b5081bad8d649e3df",
+    "retrieved_at_utc": "2026-09-14T19:23:57.423010+00:00",
+    "last_modified": "Thu, 03 Sep 2020 14:24:08 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/aug06pub.dat.gz",
+    "file": "cps/2006/aug06pub.dat.gz",
+    "bytes": 12757910,
+    "sha256": "4c7972e440710e7d44e18a029563135ea90a717e4483d5263a167f071e680174",
+    "retrieved_at_utc": "2026-09-14T19:24:33.544426+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/dec06pub.dat.gz",
+    "file": "cps/2006/dec06pub.dat.gz",
+    "bytes": 12576693,
+    "sha256": "4c4d812afd13559bfd673bd8863169a8d2d75e959052abe68b59ebb504b710f9",
+    "retrieved_at_utc": "2026-09-14T19:20:39.550630+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:24 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/feb06pub.dat.gz",
+    "file": "cps/2006/feb06pub.dat.gz",
+    "bytes": 12597798,
+    "sha256": "53694340993f4de6ea8e14e427769b22593af5590335453fd1c97ee327c45dbc",
+    "retrieved_at_utc": "2026-09-14T19:21:16.908689+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:27 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/jan06pub.dat.gz",
+    "file": "cps/2006/jan06pub.dat.gz",
+    "bytes": 12616222,
+    "sha256": "3cc7becef71470dae16af6562927462db9ea41fe2d7c430579e9a54c5062837c",
+    "retrieved_at_utc": "2026-09-14T19:24:31.523589+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/jul06pub.dat.gz",
+    "file": "cps/2006/jul06pub.dat.gz",
+    "bytes": 12694328,
+    "sha256": "1cdc617f8547d8fb3377c8e65b74089638e7b1b02091118d730668f889ea1611",
+    "retrieved_at_utc": "2026-09-14T19:23:24.645942+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:33 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/jun06pub.dat.gz",
+    "file": "cps/2006/jun06pub.dat.gz",
+    "bytes": 12610753,
+    "sha256": "f56428a8963cb2c8c087d65491cc1870e18f9666af4f2acc4bc89be890c14e21",
+    "retrieved_at_utc": "2026-09-14T19:24:39.302008+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:36 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/mar06pub.dat.gz",
+    "file": "cps/2006/mar06pub.dat.gz",
+    "bytes": 12503867,
+    "sha256": "ca29f54c2801a18b56b51b1a1e1f8f208575be4f0e79039b7db11b0d81bf4783",
+    "retrieved_at_utc": "2026-09-14T19:24:29.190536+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:39 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/may06pub.dat.gz",
+    "file": "cps/2006/may06pub.dat.gz",
+    "bytes": 12561275,
+    "sha256": "24b319adecd4367a1dd9ca0d84cca47f1fbdb238e1e6c09c1a96a549c487a218",
+    "retrieved_at_utc": "2026-09-14T19:23:33.951329+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:42 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/nov06pub.dat.gz",
+    "file": "cps/2006/nov06pub.dat.gz",
+    "bytes": 12645031,
+    "sha256": "3d69318d2b7996a60910b7480d33c0a991db4bf5133d21ec7dd545c8957348e9",
+    "retrieved_at_utc": "2026-09-14T19:20:34.634385+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:51:57 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/oct06pub.dat.gz",
+    "file": "cps/2006/oct06pub.dat.gz",
+    "bytes": 12626464,
+    "sha256": "dc2fafb0034c6d59400eebc9716301c21bd0d2818a2a06c2c1d55c57aafde078",
+    "retrieved_at_utc": "2026-09-14T19:23:28.460260+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:52:00 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2006/basic/sep06pub.dat.gz",
+    "file": "cps/2006/sep06pub.dat.gz",
+    "bytes": 12611368,
+    "sha256": "ee0ce781b3e99249d092363042307e6c32b8d516611db0f114e1379566f7f40e",
+    "retrieved_at_utc": "2026-09-14T19:22:50.855376+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:52:03 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/apr07pub.dat.gz",
+    "file": "cps/2007/apr07pub.dat.gz",
+    "bytes": 12817059,
+    "sha256": "42d33b500d00a9ba02c085a9848310e32dca8d8b2a5be406672028c73c8ea124",
+    "retrieved_at_utc": "2026-09-14T19:22:56.699410+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:53:07 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/aug07pub.dat.gz",
+    "file": "cps/2007/aug07pub.dat.gz",
+    "bytes": 12850181,
+    "sha256": "8233d9b7a65ff058e89dca7e217bcd9b3d29347595787f530e2a7f08080fa947",
+    "retrieved_at_utc": "2026-09-14T19:21:11.367111+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:53:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/dec07pub.dat.gz",
+    "file": "cps/2007/dec07pub.dat.gz",
+    "bytes": 12708789,
+    "sha256": "8966e9dad968d766e7333dd3bb65fdd311ab56971aacfa4d37ac7ee857c6ac33",
+    "retrieved_at_utc": "2026-09-14T19:25:04.644660+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:53:14 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/feb07pub.dat.gz",
+    "file": "cps/2007/feb07pub.dat.gz",
+    "bytes": 12802323,
+    "sha256": "d6024676916212f03df275da5ae325ffab0dfa55fef904d19cf06ad5e2279687",
+    "retrieved_at_utc": "2026-09-14T19:24:13.505962+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/jan07pub.dat.gz",
+    "file": "cps/2007/jan07pub.dat.gz",
+    "bytes": 12771830,
+    "sha256": "05b1067024836e0989049747a7f73790716cefb7d7898e556fc9c09ad9baadb0",
+    "retrieved_at_utc": "2026-09-14T19:26:08.216401+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:31 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/jul07pub.dat.gz",
+    "file": "cps/2007/jul07pub.dat.gz",
+    "bytes": 12881922,
+    "sha256": "af82f1b66efa986a7367662a3ed3bdac0e5cf54f011384f432c82adb0635093b",
+    "retrieved_at_utc": "2026-09-14T19:21:20.471336+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:35 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/jun07pub.dat.gz",
+    "file": "cps/2007/jun07pub.dat.gz",
+    "bytes": 12909894,
+    "sha256": "18d6a57dbcbababff66df88698d60de4f4f4c7faaef00d7f2c77fd9bd1a82090",
+    "retrieved_at_utc": "2026-09-14T19:22:13.602183+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:39 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/mar07pub.dat.gz",
+    "file": "cps/2007/mar07pub.dat.gz",
+    "bytes": 12733665,
+    "sha256": "1ab566892df7ea0695a6332ba56f230de1e9d19b96ff9c11e5f26ad0b6995852",
+    "retrieved_at_utc": "2026-09-14T19:22:42.783144+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:42 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/may07pub.dat.gz",
+    "file": "cps/2007/may07pub.dat.gz",
+    "bytes": 12863468,
+    "sha256": "ad1d0c44242305966753772edb74c60c98d5453a7a7e86c0b0fe0c3d68301c3e",
+    "retrieved_at_utc": "2026-09-14T19:22:46.392553+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:46 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/nov07pub.dat.gz",
+    "file": "cps/2007/nov07pub.dat.gz",
+    "bytes": 12730934,
+    "sha256": "02a46e34a6766615968bd7aede68f37290a42546ff0c4161aed2557f2bda627c",
+    "retrieved_at_utc": "2026-09-14T19:23:33.598831+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:50 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/oct07pub.dat.gz",
+    "file": "cps/2007/oct07pub.dat.gz",
+    "bytes": 12749237,
+    "sha256": "2da3cdccf51f2c57c8575de1f939ac39a963e13771b3ee1c59a5b7637c79ee5b",
+    "retrieved_at_utc": "2026-09-14T19:24:07.101459+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:53 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/sep07pub.dat.gz",
+    "file": "cps/2007/sep07pub.dat.gz",
+    "bytes": 12777941,
+    "sha256": "8819500aa7e9b9328f6cf9a7ccdabbe92e1c89d56c73bb5697a667c10bc8ee8b",
+    "retrieved_at_utc": "2026-09-14T19:24:59.631989+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:57 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/apr08pub.dat.gz",
+    "file": "cps/2008/apr08pub.dat.gz",
+    "bytes": 12764508,
+    "sha256": "ae263f83d8f74d9ef90e2246bcb3e653b27ce8ad3df67a40973357fc02a880df",
+    "retrieved_at_utc": "2026-09-14T19:24:23.381498+00:00",
+    "last_modified": "Thu, 03 Sep 2020 14:25:55 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/aug08pub.dat.gz",
+    "file": "cps/2008/aug08pub.dat.gz",
+    "bytes": 12891181,
+    "sha256": "c2885f8631585e099b14a10a7de07491c3c095c5a79752bbe3ec0254ad2c70ed",
+    "retrieved_at_utc": "2026-09-14T19:24:32.919798+00:00",
+    "last_modified": "Thu, 03 Sep 2020 14:26:23 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/dec08pub.dat.gz",
+    "file": "cps/2008/dec08pub.dat.gz",
+    "bytes": 12592031,
+    "sha256": "1fed25bd7b4bd4925f2c6ca356d4020e64706afd2187a380ac3d94351b6a393a",
+    "retrieved_at_utc": "2026-09-14T19:24:14.547278+00:00",
+    "last_modified": "Thu, 03 Sep 2020 14:26:56 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/feb08pub.dat.gz",
+    "file": "cps/2008/feb08pub.dat.gz",
+    "bytes": 12816979,
+    "sha256": "e9e92dedf3296e3cd8ff07b62fd55fa3ec012ba0f2efd957849d0a786b07f69a",
+    "retrieved_at_utc": "2026-09-14T19:25:22.134350+00:00",
+    "last_modified": "Thu, 03 Sep 2020 14:27:26 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/jan08pub.dat.gz",
+    "file": "cps/2008/jan08pub.dat.gz",
+    "bytes": 12782244,
+    "sha256": "006605bf76e5b4c3f463604c8761cceed39cd6c8efd0eb5c0764a27381c9ae05",
+    "retrieved_at_utc": "2026-09-14T19:26:09.060480+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:12:19 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/jul08pub.dat.gz",
+    "file": "cps/2008/jul08pub.dat.gz",
+    "bytes": 12909094,
+    "sha256": "a4911b83389d85d0c9789d9032f9fb11abf7c6cfb644588f30bfa89037f83f91",
+    "retrieved_at_utc": "2026-09-14T19:25:04.325118+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:12:22 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/jun08pub.dat.gz",
+    "file": "cps/2008/jun08pub.dat.gz",
+    "bytes": 12903542,
+    "sha256": "b1a9c0275a33d53a47d50d26f536125cf175b49d71db90357ef8bdcb492af4c0",
+    "retrieved_at_utc": "2026-09-14T19:25:26.025224+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:12:25 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/mar08pub.dat.gz",
+    "file": "cps/2008/mar08pub.dat.gz",
+    "bytes": 12672448,
+    "sha256": "30b937c6314f327ab698c6f55c4fc3e66ac0522f6c478af8c19885180530d9c4",
+    "retrieved_at_utc": "2026-09-14T19:24:40.030704+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:12:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/may08pub.dat.gz",
+    "file": "cps/2008/may08pub.dat.gz",
+    "bytes": 12809067,
+    "sha256": "89582c4e1163ef25b13d6e50db4e55078e5b412f78c0ed3a7d833254ac82c18f",
+    "retrieved_at_utc": "2026-09-14T19:24:47.646837+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:12:31 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/nov08pub.dat.gz",
+    "file": "cps/2008/nov08pub.dat.gz",
+    "bytes": 12707497,
+    "sha256": "0d88a95c4da686ee4da83e444295df4701aec5e1a61dcabf8a9b80c31f4e651b",
+    "retrieved_at_utc": "2026-09-14T19:24:11.368940+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:12:36 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/oct08pub.dat.gz",
+    "file": "cps/2008/oct08pub.dat.gz",
+    "bytes": 12738305,
+    "sha256": "f622081031a984f3e0b3fcdb4e8a3d4471b37b95da5886fc4337bf67d29f7c44",
+    "retrieved_at_utc": "2026-09-14T19:26:57.730411+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:12:40 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2008/basic/sep08pub.dat.gz",
+    "file": "cps/2008/sep08pub.dat.gz",
+    "bytes": 12716225,
+    "sha256": "8771717e9e61901c6d9de7d55da3066cf9302534e9ef6e3a6c67f843e27b738a",
+    "retrieved_at_utc": "2026-09-14T19:24:27.554857+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:12:43 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/apr09pub.dat.gz",
+    "file": "cps/2009/apr09pub.dat.gz",
+    "bytes": 13140420,
+    "sha256": "e2646905504cda82c1e589509b5a2c033b20a750660c531a5b2cbba08c03cf30",
+    "retrieved_at_utc": "2026-09-14T19:25:52.144216+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:06 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/aug09pub.dat.gz",
+    "file": "cps/2009/aug09pub.dat.gz",
+    "bytes": 13141672,
+    "sha256": "3ad08041b648911fb8762a246110ec7994478dd80a4972cb597e33b9901cc744",
+    "retrieved_at_utc": "2026-09-14T19:30:23.467341+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/dec09pub.dat.gz",
+    "file": "cps/2009/dec09pub.dat.gz",
+    "bytes": 12997324,
+    "sha256": "384828f04570b59e9afc21bd83dd28d41fb3346347d1f49d3b120d3997c28cf4",
+    "retrieved_at_utc": "2026-09-14T19:28:16.787347+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:16 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/feb09pub.dat.gz",
+    "file": "cps/2009/feb09pub.dat.gz",
+    "bytes": 13035081,
+    "sha256": "a4caca40ba22d834d5074dcbdd365c44c3c53de438804f242614edc10d9c7e5c",
+    "retrieved_at_utc": "2026-09-14T19:25:08.765960+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:19 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/jan09pub.dat.gz",
+    "file": "cps/2009/jan09pub.dat.gz",
+    "bytes": 12952961,
+    "sha256": "331470542e1c4200ad0b1191cf2cb834160751ee461e6fa5885ffd11d402d882",
+    "retrieved_at_utc": "2026-09-14T19:29:11.030720+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:23 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/jul09pub.dat.gz",
+    "file": "cps/2009/jul09pub.dat.gz",
+    "bytes": 13173791,
+    "sha256": "1287730792f368019d885ed82c16cc6fb4f9c11268516dcde2df8500a56fd485",
+    "retrieved_at_utc": "2026-09-14T19:31:27.906281+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:26 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/jun09pub.dat.gz",
+    "file": "cps/2009/jun09pub.dat.gz",
+    "bytes": 13190241,
+    "sha256": "9c8a8b462b1049b445ea3bd9ed4fcac249a08744f3cf0b9fbdbd81f96c74d480",
+    "retrieved_at_utc": "2026-09-14T19:28:42.560237+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/mar09pub.dat.gz",
+    "file": "cps/2009/mar09pub.dat.gz",
+    "bytes": 12985512,
+    "sha256": "7993a8c7d2bcfe9f53faf7335d00828611b39a1030283c8006236eaf900a7da0",
+    "retrieved_at_utc": "2026-09-14T19:25:24.735421+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:34 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/may09pub.dat.gz",
+    "file": "cps/2009/may09pub.dat.gz",
+    "bytes": 13111520,
+    "sha256": "949945b7f472c48154730ae730e8a93a69a1b7af037090371e7abd2e27020d07",
+    "retrieved_at_utc": "2026-09-14T19:25:01.769576+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:37 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/nov09pub.dat.gz",
+    "file": "cps/2009/nov09pub.dat.gz",
+    "bytes": 12951036,
+    "sha256": "a90bea231a78f01afca37f2cd66241f4e38018f731fc39aa4911bddd7ca613ed",
+    "retrieved_at_utc": "2026-09-14T19:25:02.335695+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:41 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/oct09pub.dat.gz",
+    "file": "cps/2009/oct09pub.dat.gz",
+    "bytes": 13063405,
+    "sha256": "2b1414c211c9847b6edefc845e27f4fc5cbaba67ac86f0ac12ff4fc8d199f073",
+    "retrieved_at_utc": "2026-09-14T19:25:46.541722+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:45 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/sep09pub.dat.gz",
+    "file": "cps/2009/sep09pub.dat.gz",
+    "bytes": 13122230,
+    "sha256": "d9e1a5c547a7589615d60c35f0bc88554753fd717cfcbd1d0b526ac692007c29",
+    "retrieved_at_utc": "2026-09-14T19:29:18.107208+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:49 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/apr10pub.dat.gz",
+    "file": "cps/2010/apr10pub.dat.gz",
+    "bytes": 13158172,
+    "sha256": "b6136e03566c2ddf6f2ef91d0bcb70d5e89b739e36413fd48b4a01d2ef25d816",
+    "retrieved_at_utc": "2026-09-14T19:27:31.801418+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:00 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/aug10pub.dat.gz",
+    "file": "cps/2010/aug10pub.dat.gz",
+    "bytes": 13157406,
+    "sha256": "3ddfc7bc1c6d7f02e080fc038be5d9087d50fe9adbc5de9e6fd6e7d8cc767c59",
+    "retrieved_at_utc": "2026-09-14T19:28:17.067762+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:04 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/dec10pub.dat.gz",
+    "file": "cps/2010/dec10pub.dat.gz",
+    "bytes": 13029934,
+    "sha256": "34e0e388c0f98e560fa1addda7f71fc17a67fd839ff1e7cb1550f0ebee431e5b",
+    "retrieved_at_utc": "2026-09-14T19:28:41.755552+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:07 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/feb10pub.dat.gz",
+    "file": "cps/2010/feb10pub.dat.gz",
+    "bytes": 13210543,
+    "sha256": "ac162a35a992ecca6a08641202fa699ac0003124741e2c865b4fa3f2e412b515",
+    "retrieved_at_utc": "2026-09-14T19:27:41.569023+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/jan10pub.dat.gz",
+    "file": "cps/2010/jan10pub.dat.gz",
+    "bytes": 13084538,
+    "sha256": "8de254de1ea37d56762c4cc4c3f2ce730c8c1525667d01beaa396ea300edf3a5",
+    "retrieved_at_utc": "2026-09-14T19:27:02.446039+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:14 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/jul10pub.dat.gz",
+    "file": "cps/2010/jul10pub.dat.gz",
+    "bytes": 13169302,
+    "sha256": "a27f215f5a05b246cb16d1ad2f06515b95c6a4507e97624992682b9ed9a66071",
+    "retrieved_at_utc": "2026-09-14T19:28:51.062330+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:18 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/jun10pub.dat.gz",
+    "file": "cps/2010/jun10pub.dat.gz",
+    "bytes": 13133429,
+    "sha256": "37c83130345d75ea13f2d44eda679fdccc8edd8c84be836c244d485ea28ccf3b",
+    "retrieved_at_utc": "2026-09-14T19:30:07.282729+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:21 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/mar10pub.dat.gz",
+    "file": "cps/2010/mar10pub.dat.gz",
+    "bytes": 13056864,
+    "sha256": "e638345f4f8411b77b7afbcd0544d168371e5fd9292fa43a04732e0748c98774",
+    "retrieved_at_utc": "2026-09-14T19:27:47.856461+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:25 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/may10pub.dat.gz",
+    "file": "cps/2010/may10pub.dat.gz",
+    "bytes": 13123062,
+    "sha256": "ab0688d3bb3323ab097a8f098f293431e1a32b797ad8bae683561b904000ad48",
+    "retrieved_at_utc": "2026-09-14T19:30:40.592564+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/nov10pub.dat.gz",
+    "file": "cps/2010/nov10pub.dat.gz",
+    "bytes": 13032761,
+    "sha256": "a03ba35e94d41e9b653c5c630a0f032dd5ce52ec1712f805fcae0a19dde76854",
+    "retrieved_at_utc": "2026-09-14T19:27:24.562638+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:32 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/oct10pub.dat.gz",
+    "file": "cps/2010/oct10pub.dat.gz",
+    "bytes": 13086075,
+    "sha256": "59519244e94535af15d4bfe145866e7603868bf435d73cd72215e1fb38f8423f",
+    "retrieved_at_utc": "2026-09-14T19:25:35.060121+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:35 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/sep10pub.dat.gz",
+    "file": "cps/2010/sep10pub.dat.gz",
+    "bytes": 13041404,
+    "sha256": "c94d189416302276d136af369fadcc0dc01750d1545818a32f6afaa896a451fa",
+    "retrieved_at_utc": "2026-09-14T19:25:45.450059+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/apr11pub.dat.gz",
+    "file": "cps/2011/apr11pub.dat.gz",
+    "bytes": 12913819,
+    "sha256": "06e2bc1b5090695ed1bb454946a7db3f46ce41fa49f4738088c5c3b3638e185a",
+    "retrieved_at_utc": "2026-09-14T19:32:49.990937+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:22:59 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/aug11pub.dat.gz",
+    "file": "cps/2011/aug11pub.dat.gz",
+    "bytes": 13051099,
+    "sha256": "1bbca57ab67203493469ee063580e97830174d743c9030c0d32a26ec67cce79e",
+    "retrieved_at_utc": "2026-09-14T19:28:11.099653+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:02 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/dec11pub.dat.gz",
+    "file": "cps/2011/dec11pub.dat.gz",
+    "bytes": 12917797,
+    "sha256": "3ddfa7d93f2f262ebf3ffc30d77f45c8cd727a424a7983a66e25a2a7ec57fb23",
+    "retrieved_at_utc": "2026-09-14T19:29:51.476673+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:04 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/feb11pub.dat.gz",
+    "file": "cps/2011/feb11pub.dat.gz",
+    "bytes": 12970761,
+    "sha256": "edfe9150628d7dd67f0b70f6072e84e1fb2f49dce7c56c872a6c0be2548d26a3",
+    "retrieved_at_utc": "2026-09-14T19:43:58.420258+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:08 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/jan11pub.dat.gz",
+    "file": "cps/2011/jan11pub.dat.gz",
+    "bytes": 13078467,
+    "sha256": "a105e404b3b058d1bb97d13b811858e8f7faa65c55583bf0e579d829265b6bdf",
+    "retrieved_at_utc": "2026-09-14T19:31:12.257017+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/jul11pub.dat.gz",
+    "file": "cps/2011/jul11pub.dat.gz",
+    "bytes": 13050524,
+    "sha256": "862cb94e9a908b0137e58347b2f0d5cb87bd6ccc059b18ee2a9e372d9a297ded",
+    "retrieved_at_utc": "2026-09-14T19:43:46.038108+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:13 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/jun11pub.dat.gz",
+    "file": "cps/2011/jun11pub.dat.gz",
+    "bytes": 13014846,
+    "sha256": "2f44f91e11dff489d21fac07c0f57883964153ec38c68dba7fb906d1a9f81736",
+    "retrieved_at_utc": "2026-09-14T19:28:52.670439+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:15 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/mar11pub.dat.gz",
+    "file": "cps/2011/mar11pub.dat.gz",
+    "bytes": 12848640,
+    "sha256": "eef4ba5a98cb5d16c97e4f074351d0e37afe486668c8aa4ec22f231c36de6858",
+    "retrieved_at_utc": "2026-09-14T19:29:56.498836+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:17 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/may11pub.dat.gz",
+    "file": "cps/2011/may11pub.dat.gz",
+    "bytes": 13002202,
+    "sha256": "ce9f273f4bd493cba4249055105ef2a66e4f34d1b868d91cfb02b07345753670",
+    "retrieved_at_utc": "2026-09-14T19:29:39.125149+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:20 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/nov11pub.dat.gz",
+    "file": "cps/2011/nov11pub.dat.gz",
+    "bytes": 12967958,
+    "sha256": "b16389b00a018c21988d17aa74ee232bf0ad8030a09c5b94d872e6d6770ddfbf",
+    "retrieved_at_utc": "2026-09-14T19:30:13.682160+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:22 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/oct11pub.dat.gz",
+    "file": "cps/2011/oct11pub.dat.gz",
+    "bytes": 13090093,
+    "sha256": "ecadcf31f5420dd0b9c89fb6dc926b43cdfe802b019859bac6b6e9c770f8f7b3",
+    "retrieved_at_utc": "2026-09-14T19:43:25.946673+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:24 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2011/basic/sep11pub.dat.gz",
+    "file": "cps/2011/sep11pub.dat.gz",
+    "bytes": 13014514,
+    "sha256": "dbe6b1f8ff239ae3e276d6721e2bd9e226b0ce15133288b26ec5e75793c10cfd",
+    "retrieved_at_utc": "2026-09-14T19:31:19.910239+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:23:26 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/apr12pub.dat.gz",
+    "file": "cps/2012/apr12pub.dat.gz",
+    "bytes": 12864237,
+    "sha256": "ac4166a095ddf80eb92c05dbf80bee85c6a002e8e677a22bcbf44333b84d25f6",
+    "retrieved_at_utc": "2026-09-14T19:43:20.644093+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:03 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/aug12pub.dat.gz",
+    "file": "cps/2012/aug12pub.dat.gz",
+    "bytes": 12934405,
+    "sha256": "0b59b605fe7fbbdbf4c30b480be7996a8714ac41198e6c9e1c5f22e3d0ecc2e0",
+    "retrieved_at_utc": "2026-09-14T19:29:57.308476+00:00",
+    "last_modified": "Fri, 05 Nov 2021 21:40:21 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/dec12pub.dat.gz",
+    "file": "cps/2012/dec12pub.dat.gz",
+    "bytes": 12859846,
+    "sha256": "87519006c9d1cc7cf939c16a4848d5421a5d7ad7bc3abe6d8bc63343580efb67",
+    "retrieved_at_utc": "2026-09-14T19:31:35.896223+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:29 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/feb12pub.dat.gz",
+    "file": "cps/2012/feb12pub.dat.gz",
+    "bytes": 12893627,
+    "sha256": "c654fc5a626adddcc5904d29dd8284db3b667dad54a8b8d35d7a9d2fa282dcd3",
+    "retrieved_at_utc": "2026-09-14T19:43:33.358533+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:05 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/jan12pub.dat.gz",
+    "file": "cps/2012/jan12pub.dat.gz",
+    "bytes": 12920514,
+    "sha256": "fcabe31edba5502bba74fd4dfa57e1273c7ae003116a7b51819f5a615d7181d2",
+    "retrieved_at_utc": "2026-09-14T19:43:32.189262+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:06 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/jul12pub.dat.gz",
+    "file": "cps/2012/jul12pub.dat.gz",
+    "bytes": 12987833,
+    "sha256": "834429299c22b605c5a3b4ddcb7f127c9852cf18ca797ab6660f81c296e450f2",
+    "retrieved_at_utc": "2026-09-14T19:30:36.056416+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:31 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/jun12pub.dat.gz",
+    "file": "cps/2012/jun12pub.dat.gz",
+    "bytes": 12995569,
+    "sha256": "30a67089838ff0ef79bdc39d5e7dbe060b3ae3dd942c128df45d44fbb0cec346",
+    "retrieved_at_utc": "2026-09-14T19:30:15.820820+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:33 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/mar12pub.dat.gz",
+    "file": "cps/2012/mar12pub.dat.gz",
+    "bytes": 12799261,
+    "sha256": "9dcae361dc8a920046fdcc7bdaa31d1cb9c73cbd85e46cdade4134afb5b85bd6",
+    "retrieved_at_utc": "2026-09-14T19:43:50.442971+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:09 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/may12pub.dat.gz",
+    "file": "cps/2012/may12pub.dat.gz",
+    "bytes": 12869255,
+    "sha256": "4aaf8b6e224bfae9da5d8fe43606456bb8ddc9cf0e2ea9e349664f1e56907055",
+    "retrieved_at_utc": "2026-09-14T19:43:21.527002+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:35 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/nov12pub.dat.gz",
+    "file": "cps/2012/nov12pub.dat.gz",
+    "bytes": 12890921,
+    "sha256": "4ddb005bc2f905707ec777ac75144c1d8c4c27d8f5c863c8dc8580c366c2da90",
+    "retrieved_at_utc": "2026-09-14T19:31:03.403744+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:37 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/oct12pub.dat.gz",
+    "file": "cps/2012/oct12pub.dat.gz",
+    "bytes": 12850882,
+    "sha256": "391f5cdc640cd92c2b3cb595baf201a1b17736191db4404466333fbd560bd7c3",
+    "retrieved_at_utc": "2026-09-14T19:29:47.291762+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/sep12pub.dat.gz",
+    "file": "cps/2012/sep12pub.dat.gz",
+    "bytes": 12853286,
+    "sha256": "cb434a5954fbbd7fa367053394c671e760633b41f83e0184ae559f97623f5b77",
+    "retrieved_at_utc": "2026-09-14T19:29:59.721232+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:40 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/apr13pub.dat.gz",
+    "file": "cps/2013/apr13pub.dat.gz",
+    "bytes": 12921371,
+    "sha256": "8676621b44b46d76c7c2a31413db66a6b1cb5fcfde2070167a4f05ed3a789a66",
+    "retrieved_at_utc": "2026-09-14T19:42:28.462143+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:28:56 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/aug13pub.dat.gz",
+    "file": "cps/2013/aug13pub.dat.gz",
+    "bytes": 12925239,
+    "sha256": "e158b6e1b3f43a82ae009f7843d88a8bc35d6a198d800875b2a16f9a4ad66b72",
+    "retrieved_at_utc": "2026-09-14T19:43:36.784973+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:28:59 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/dec13pub.dat.gz",
+    "file": "cps/2013/dec13pub.dat.gz",
+    "bytes": 12840304,
+    "sha256": "a15a6dd999f0473b0ffe4eb0a0774a13003975a126c92c2e8998188e674bbe8a",
+    "retrieved_at_utc": "2026-09-14T19:43:50.877253+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:01 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/feb13pub.dat.gz",
+    "file": "cps/2013/feb13pub.dat.gz",
+    "bytes": 12946947,
+    "sha256": "dc639ce1c2db78ac529624c30551491726f37389107c2b3912ad8759ccec8b8b",
+    "retrieved_at_utc": "2026-09-14T19:42:31.672736+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:03 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/jan13pub.dat.gz",
+    "file": "cps/2013/jan13pub.dat.gz",
+    "bytes": 13040180,
+    "sha256": "d4900fe309a778c9b0593ddf9a169afa69805f930c999c91a040c03acebd31f7",
+    "retrieved_at_utc": "2026-09-14T19:42:33.153517+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:06 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/jul13pub.dat.gz",
+    "file": "cps/2013/jul13pub.dat.gz",
+    "bytes": 12940711,
+    "sha256": "2aeeda1fe46e357bf8c924943854e7bd09f68c182299324f70a3ccdda625d028",
+    "retrieved_at_utc": "2026-09-14T19:44:06.120029+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:07 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/jun13pub.dat.gz",
+    "file": "cps/2013/jun13pub.dat.gz",
+    "bytes": 12955248,
+    "sha256": "38563ddd60156d5cd2a2dd7399a9c5f3d2341a4b7c2ec35322cc8e68106b42ac",
+    "retrieved_at_utc": "2026-09-14T19:43:14.034112+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:09 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/mar13pub.dat.gz",
+    "file": "cps/2013/mar13pub.dat.gz",
+    "bytes": 12815792,
+    "sha256": "7010a6eeca6dd674d7d98ab4b3b2d6b50a2978ad716b845be09d14c7857baa47",
+    "retrieved_at_utc": "2026-09-14T19:42:29.818637+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/may13pub.dat.gz",
+    "file": "cps/2013/may13pub.dat.gz",
+    "bytes": 12991464,
+    "sha256": "759dfde38bfedbbcc2cb4681bebe7dce97bf83b2aa285156d88f8c409b08c9b6",
+    "retrieved_at_utc": "2026-09-14T19:42:26.705654+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:14 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/nov13pub.dat.gz",
+    "file": "cps/2013/nov13pub.dat.gz",
+    "bytes": 12774596,
+    "sha256": "b41039e41463ca783938592a16b53e226d8c337d658012c406ca5d061ebccdfd",
+    "retrieved_at_utc": "2026-09-14T19:43:29.939840+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:16 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/oct13pub.dat.gz",
+    "file": "cps/2013/oct13pub.dat.gz",
+    "bytes": 12843188,
+    "sha256": "317c6ab9938bd54aa16649ae8612a54fd19bc76a52959f71339cba92da205662",
+    "retrieved_at_utc": "2026-09-14T19:43:47.040020+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:18 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/sep13pub.dat.gz",
+    "file": "cps/2013/sep13pub.dat.gz",
+    "bytes": 12825907,
+    "sha256": "336cf3b6e3d18e6b3b92371f162f8e3f35786ba888bac1ed50134cde8c8c3e05",
+    "retrieved_at_utc": "2026-09-14T19:43:31.178612+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:19 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/apr14pub.dat.gz",
+    "file": "cps/2014/apr14pub.dat.gz",
+    "bytes": 12888856,
+    "sha256": "853dcb5295f0a4a6af23a7343b27da43c35eb23f354a0e880931efe35689b675",
+    "retrieved_at_utc": "2026-09-14T19:42:42.099866+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:01 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/aug14pub.dat.gz",
+    "file": "cps/2014/aug14pub.dat.gz",
+    "bytes": 13266900,
+    "sha256": "066f9a04a54d52eb193aded61279d818719e683550320e3fb3f465ea4e61b116",
+    "retrieved_at_utc": "2026-09-14T19:42:37.912979+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:04 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/dec14pub.dat.gz",
+    "file": "cps/2014/dec14pub.dat.gz",
+    "bytes": 13204510,
+    "sha256": "bb2d9763a42a779ebd21e198047ce55ef1664535f0b3476f945e8cf5b0639a37",
+    "retrieved_at_utc": "2026-09-14T19:42:34.157859+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:06 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/feb14pub.dat.gz",
+    "file": "cps/2014/feb14pub.dat.gz",
+    "bytes": 13006848,
+    "sha256": "40ac3df0f80a56b61be6a68bfa5d39d3a1a33e553dfcc9074ae58ce7bbe2b682",
+    "retrieved_at_utc": "2026-09-14T19:42:44.504369+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:07 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/jan14pub.dat.gz",
+    "file": "cps/2014/jan14pub.dat.gz",
+    "bytes": 13009188,
+    "sha256": "1a7c63e8b67094ad9e0ed25eefec5a217a2ed25da99411b37802521d15e9af8e",
+    "retrieved_at_utc": "2026-09-14T19:42:45.928905+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:09 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/jul14pub.dat.gz",
+    "file": "cps/2014/jul14pub.dat.gz",
+    "bytes": 13253427,
+    "sha256": "2e22826e16abb42f995b2a338856d158e3c11da85c13dfd84bc708a65920fc2c",
+    "retrieved_at_utc": "2026-09-14T19:42:39.105141+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/jun14pub.dat.gz",
+    "file": "cps/2014/jun14pub.dat.gz",
+    "bytes": 13117077,
+    "sha256": "0755db3ebef22c837ca3a096d4ee100afac8fe3c8f132227d1e0a9d1516ea918",
+    "retrieved_at_utc": "2026-09-14T19:42:40.278454+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:13 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/mar14pub.dat.gz",
+    "file": "cps/2014/mar14pub.dat.gz",
+    "bytes": 12867023,
+    "sha256": "5b4f683760dccc0722ecdd726f311568f3dea76775260f1fa083cea39c25a2a7",
+    "retrieved_at_utc": "2026-09-14T19:42:43.383332+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:16 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/may14pub.dat.gz",
+    "file": "cps/2014/may14pub.dat.gz",
+    "bytes": 13048480,
+    "sha256": "3b4c71bd2938ca74da87990c7c1478d4904da628485890f11276ba7d45d2b9a9",
+    "retrieved_at_utc": "2026-09-14T19:42:41.285875+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:18 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/nov14pub.dat.gz",
+    "file": "cps/2014/nov14pub.dat.gz",
+    "bytes": 13394607,
+    "sha256": "b5e3189502c49970be324432b0da749d98c3a8e7e39cd6d0d46df164ca5921de",
+    "retrieved_at_utc": "2026-09-14T19:42:35.009006+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:20 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/oct14pub.dat.gz",
+    "file": "cps/2014/oct14pub.dat.gz",
+    "bytes": 13409743,
+    "sha256": "70f6a86aea3d462eb89b0bc5362103f1359feec95939dbd6b51fd7b7b03f94b8",
+    "retrieved_at_utc": "2026-09-14T19:42:36.025571+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:22 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/sep14pub.dat.gz",
+    "file": "cps/2014/sep14pub.dat.gz",
+    "bytes": 13208428,
+    "sha256": "484436e8a81ea8725ebdf9505dde4f44e32680b0b3edd2d2a52645194a38a3a5",
+    "retrieved_at_utc": "2026-09-14T19:42:36.958674+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:24 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/apr15pub.dat.gz",
+    "file": "cps/2015/apr15pub.dat.gz",
+    "bytes": 13010903,
+    "sha256": "fb0dad2b36aa72c269b2d3e557bb0b86fe5380814b41d2bd137dd40061dc86b5",
+    "retrieved_at_utc": "2026-09-14T19:43:04.346059+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:26 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/aug15pub.dat.gz",
+    "file": "cps/2015/aug15pub.dat.gz",
+    "bytes": 12800819,
+    "sha256": "63680d64714947179f204e8dd6fba81242036f4bebb2a34442218f7c53c35ae1",
+    "retrieved_at_utc": "2026-09-14T19:42:52.350387+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/dec15pub.dat.gz",
+    "file": "cps/2015/dec15pub.dat.gz",
+    "bytes": 12753016,
+    "sha256": "c1ff833fb09846b01efbef91a379a1e6639b736251a32b8170d634cef65bb964",
+    "retrieved_at_utc": "2026-09-14T19:42:47.334481+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/feb15pub.dat.gz",
+    "file": "cps/2015/feb15pub.dat.gz",
+    "bytes": 13044120,
+    "sha256": "c80f7a7fb421ed5baf9566db1a040d3e80b9c41e3230d590550bdddc5b32e0e9",
+    "retrieved_at_utc": "2026-09-14T19:43:06.977544+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:31 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/jan15pub.dat.gz",
+    "file": "cps/2015/jan15pub.dat.gz",
+    "bytes": 13232040,
+    "sha256": "663a44fc88f585cd63037eb443be90913f5a80f7279a3ed2946bc1e30d2e6b08",
+    "retrieved_at_utc": "2026-09-14T19:43:07.970449+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:33 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/jul15pub.dat.gz",
+    "file": "cps/2015/jul15pub.dat.gz",
+    "bytes": 12781483,
+    "sha256": "f007d4d9bedf81d0f423f2e732bcda8965cbaca659aa354b8a18cc8f994c5c56",
+    "retrieved_at_utc": "2026-09-14T19:42:54.641148+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:36 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/jun15pub.dat.gz",
+    "file": "cps/2015/jun15pub.dat.gz",
+    "bytes": 12847460,
+    "sha256": "c61785ed8d97af7021b70ea8ca55c743d452d4aa6e7430fb489f119b59dcc636",
+    "retrieved_at_utc": "2026-09-14T19:42:56.490168+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/mar15pub.dat.gz",
+    "file": "cps/2015/mar15pub.dat.gz",
+    "bytes": 12895170,
+    "sha256": "54492c6c100aebd4bf417eb6f3ca58c75a0ca887b286e825986600eb5f970662",
+    "retrieved_at_utc": "2026-09-14T19:43:05.767524+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:40 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/may15pub.dat.gz",
+    "file": "cps/2015/may15pub.dat.gz",
+    "bytes": 12958304,
+    "sha256": "3524e643ad99e827722d77c5f61ab464c0cf7ddffe52c1c7fc72d83fef14e914",
+    "retrieved_at_utc": "2026-09-14T19:42:58.653034+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:42 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/nov15pub.dat.gz",
+    "file": "cps/2015/nov15pub.dat.gz",
+    "bytes": 12839974,
+    "sha256": "3ad346b3ecd0ca3cd817a8900fe1189ff4756c385be50d3c18ff01208828896d",
+    "retrieved_at_utc": "2026-09-14T19:42:48.729356+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:44 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/oct15pub.dat.gz",
+    "file": "cps/2015/oct15pub.dat.gz",
+    "bytes": 12845662,
+    "sha256": "2daae295c3d58c105f4775cded127997ed4e76e90a211f22abc7ff473b2d261c",
+    "retrieved_at_utc": "2026-09-14T19:42:49.699661+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:46 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/sep15pub.dat.gz",
+    "file": "cps/2015/sep15pub.dat.gz",
+    "bytes": 12814223,
+    "sha256": "3eb71ecb6776fb29fc1623af2cd7c9c2d19030d6e38c92b3c109c774a08a91fe",
+    "retrieved_at_utc": "2026-09-14T19:42:50.697947+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:48 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/apr16pub.dat.gz",
+    "file": "cps/2016/apr16pub.dat.gz",
+    "bytes": 12651170,
+    "sha256": "f1bcfe5ca9ccb1d96a1c738e4fe85b3a59a3f6acb89764d2fdd5f3c00d4840ee",
+    "retrieved_at_utc": "2026-09-14T19:43:35.637154+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:44 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/aug16pub.dat.gz",
+    "file": "cps/2016/aug16pub.dat.gz",
+    "bytes": 13013872,
+    "sha256": "e1e355d8cfb52aeff25dbea8f28922db5101fb01a398fb0580a59048a47bc848",
+    "retrieved_at_utc": "2026-09-14T19:44:00.242442+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:46 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/dec16pub.dat.gz",
+    "file": "cps/2016/dec16pub.dat.gz",
+    "bytes": 12754000,
+    "sha256": "304a62ca20ac75335d3276d859f9293539c0965721ebf6c89d6b9a3c3d76337f",
+    "retrieved_at_utc": "2026-09-14T19:43:09.736497+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:47 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/feb16pub.dat.gz",
+    "file": "cps/2016/feb16pub.dat.gz",
+    "bytes": 12756819,
+    "sha256": "88cec80ec3ddea1b0c56ff1b46ea975e9a01c0fb2a044ff43fad0904e40f0fce",
+    "retrieved_at_utc": "2026-09-14T19:43:41.991810+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:49 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/jan16pub.dat.gz",
+    "file": "cps/2016/jan16pub.dat.gz",
+    "bytes": 12833495,
+    "sha256": "ff0e783c54cbcbe52cacccad254a8b5d3ae8f5b966fcf00b9db56dbceb353caa",
+    "retrieved_at_utc": "2026-09-14T19:44:27.748590+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:51 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/jul16pub.dat.gz",
+    "file": "cps/2016/jul16pub.dat.gz",
+    "bytes": 12867138,
+    "sha256": "a0520bcced31723495dd84d8ed55551c1b431e773a75fea08bf64264d82a3a2e",
+    "retrieved_at_utc": "2026-09-14T19:44:15.012272+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:53 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/jun16pub.dat.gz",
+    "file": "cps/2016/jun16pub.dat.gz",
+    "bytes": 12767781,
+    "sha256": "34c3ce4013a8e6d7c3022f50b316cfa7127fd4fbddd369cf8b5daab295f87a5c",
+    "retrieved_at_utc": "2026-09-14T19:43:30.435383+00:00",
+    "last_modified": "Tue, 19 May 2020 20:38:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/mar16pub.dat.gz",
+    "file": "cps/2016/mar16pub.dat.gz",
+    "bytes": 12538955,
+    "sha256": "be2e843bc2e4f91c6de549972160a8d7aa28abda5a52d806753591d2b3f021b7",
+    "retrieved_at_utc": "2026-09-14T19:43:38.037912+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:54 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/may16pub.dat.gz",
+    "file": "cps/2016/may16pub.dat.gz",
+    "bytes": 12716201,
+    "sha256": "db4fb871ddfe567cc873fcd7fe4e85f94e5c526e06e3797df850529fd77b6884",
+    "retrieved_at_utc": "2026-09-14T19:43:37.107186+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:56 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/nov16pub.dat.gz",
+    "file": "cps/2016/nov16pub.dat.gz",
+    "bytes": 12939678,
+    "sha256": "141f9de25fca45c61f87c2e97b10f06c635c716ab5014f0090e96d2e62a682af",
+    "retrieved_at_utc": "2026-09-14T19:43:11.534198+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:33:58 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/oct16pub.dat.gz",
+    "file": "cps/2016/oct16pub.dat.gz",
+    "bytes": 12991664,
+    "sha256": "5b854cd43cd0d899c4d568dbe93ca690035ef97ea4a6df49fc9b0bc10df76cb9",
+    "retrieved_at_utc": "2026-09-14T19:43:27.856871+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:34:00 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2016/basic/sep16pub.dat.gz",
+    "file": "cps/2016/sep16pub.dat.gz",
+    "bytes": 13019252,
+    "sha256": "2fafee6406b70da9ab7fa93bb2fb8f5c1353dbb1f9c0e4fd7a28d27078cf4be5",
+    "retrieved_at_utc": "2026-09-14T19:43:27.776070+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:34:02 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/apr17pub.dat.gz",
+    "file": "cps/2017/apr17pub.dat.gz",
+    "bytes": 13019768,
+    "sha256": "37d8f91cc02f320ee581076a5559e71087053f0e46e98d14a47bc3610cb724ff",
+    "retrieved_at_utc": "2026-09-14T19:43:46.054056+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:34:51 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/aug17pub.dat.gz",
+    "file": "cps/2017/aug17pub.dat.gz",
+    "bytes": 12871815,
+    "sha256": "f5857db09998b5a633a718e9b0da7ea4476dd017730c6cebf33c65eb76c82a1c",
+    "retrieved_at_utc": "2026-09-14T19:43:40.187870+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:35:32 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/dec17pub.dat.gz",
+    "file": "cps/2017/dec17pub.dat.gz",
+    "bytes": 12706888,
+    "sha256": "26a5e2ac484be8ad973d7ee641d568eb4326576275cb6c2a46e8bee6d7dd4067",
+    "retrieved_at_utc": "2026-09-14T19:44:05.852202+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:35:34 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/feb17pub.dat.gz",
+    "file": "cps/2017/feb17pub.dat.gz",
+    "bytes": 13126593,
+    "sha256": "aaa100546073854ef43f25ae192bde17203e5b6b3ae30c13279a5a75e55d60d0",
+    "retrieved_at_utc": "2026-09-14T19:44:30.483812+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:34:53 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/jan17pub.dat.gz",
+    "file": "cps/2017/jan17pub.dat.gz",
+    "bytes": 13129227,
+    "sha256": "3636e5898489f373adbb0e83ff38e267838f028031c3ec25413271ec4d7fc41c",
+    "retrieved_at_utc": "2026-09-14T19:44:04.600271+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:34:55 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/jul17pub.dat.gz",
+    "file": "cps/2017/jul17pub.dat.gz",
+    "bytes": 12877338,
+    "sha256": "0d2792bbb0651a248e97bea8c409aab1e2fd19a3cc56731dbec74250b19dc173",
+    "retrieved_at_utc": "2026-09-14T19:43:43.004813+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:35:39 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/jun17pub.dat.gz",
+    "file": "cps/2017/jun17pub.dat.gz",
+    "bytes": 12868984,
+    "sha256": "699c8257ae384760c0e12498395e165f579bda9c616e644532acb8daa310ed26",
+    "retrieved_at_utc": "2026-09-14T19:44:04.507066+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:35:41 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/mar17pub.dat.gz",
+    "file": "cps/2017/mar17pub.dat.gz",
+    "bytes": 13020535,
+    "sha256": "f26694eb3be1d7f990f95c8307632cdc232e29f686a62f06a6012ec6a270bf08",
+    "retrieved_at_utc": "2026-09-14T19:43:58.060675+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:34:57 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/may17pub.dat.gz",
+    "file": "cps/2017/may17pub.dat.gz",
+    "bytes": 12869565,
+    "sha256": "ec6eda196fba950455d6adecbf97347f0cd39b1f5a5cf272781b3054306447b3",
+    "retrieved_at_utc": "2026-09-14T19:43:40.117412+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:34:59 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/nov17pub.dat.gz",
+    "file": "cps/2017/nov17pub.dat.gz",
+    "bytes": 12856704,
+    "sha256": "02849c4e955a632e7188a981f243bff132b2e3c60e65552baecf5407aa17299f",
+    "retrieved_at_utc": "2026-09-14T19:44:01.901869+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:35:43 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/oct17pub.dat.gz",
+    "file": "cps/2017/oct17pub.dat.gz",
+    "bytes": 12868838,
+    "sha256": "858943ce9b11e9394e0804a4fa657269b42bec707f58626ef16381786cf82cdd",
+    "retrieved_at_utc": "2026-09-14T19:43:43.355537+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:35:45 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/sep17pub.dat.gz",
+    "file": "cps/2017/sep17pub.dat.gz",
+    "bytes": 12895319,
+    "sha256": "63da6a721fd39bccfb53b5ae37b28cbff90aefcd6d1f75953c88d1b39096c75c",
+    "retrieved_at_utc": "2026-09-14T19:43:40.943522+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:35:47 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/apr18pub.dat.gz",
+    "file": "cps/2018/apr18pub.dat.gz",
+    "bytes": 12566626,
+    "sha256": "1d9872bf6fd9915434d32c308226254169cd039aece036d319f5eaf3d3733220",
+    "retrieved_at_utc": "2026-09-14T19:44:03.906779+00:00",
+    "last_modified": "Fri, 05 Nov 2021 20:29:55 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/aug18pub.dat.gz",
+    "file": "cps/2018/aug18pub.dat.gz",
+    "bytes": 12420885,
+    "sha256": "5d7f8fb7975dd434c73ee04fbb47f94bbc8390dfd3477a2ada3ecce5f7c77c94",
+    "retrieved_at_utc": "2026-09-14T19:44:33.429091+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:15 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/dec18pub.dat.gz",
+    "file": "cps/2018/dec18pub.dat.gz",
+    "bytes": 12264884,
+    "sha256": "1e6e5c260c37fc9b7bdc93407b14d8d7a81f70d242185903544aecc800ff352e",
+    "retrieved_at_utc": "2026-09-14T19:44:04.587988+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:17 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/feb18pub.dat.gz",
+    "file": "cps/2018/feb18pub.dat.gz",
+    "bytes": 12640559,
+    "sha256": "571fd91830be4b973bc0fec1fc0d265985eb32eca2e4b6145ee35551be4c958f",
+    "retrieved_at_utc": "2026-09-14T19:44:07.334691+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:19 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/jan18pub.dat.gz",
+    "file": "cps/2018/jan18pub.dat.gz",
+    "bytes": 12727739,
+    "sha256": "52f3f26a3d6fdd1c31ee531e47b8b681c137c67e577272325ab8047741b4ffc6",
+    "retrieved_at_utc": "2026-09-14T19:44:02.497675+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:21 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/jul18pub.dat.gz",
+    "file": "cps/2018/jul18pub.dat.gz",
+    "bytes": 12442632,
+    "sha256": "8d727d886ab66504557f03228abce3723f5d36fec71682042c514fec4de1d701",
+    "retrieved_at_utc": "2026-09-14T19:45:07.037076+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:22 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/jun18pub.dat.gz",
+    "file": "cps/2018/jun18pub.dat.gz",
+    "bytes": 12492568,
+    "sha256": "f0bcae3bbc3b50b9bc66364baa20473a5ef6c64fbec7023069c28d05cafbf84f",
+    "retrieved_at_utc": "2026-09-14T19:44:04.340379+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:25 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/mar18pub.dat.gz",
+    "file": "cps/2018/mar18pub.dat.gz",
+    "bytes": 12525417,
+    "sha256": "27f737d1ad5aaf324b1572423af5bb9082b8dbc5546d45262d47dba5b450ae7d",
+    "retrieved_at_utc": "2026-09-14T19:44:12.029064+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/may18pub.dat.gz",
+    "file": "cps/2018/may18pub.dat.gz",
+    "bytes": 12487658,
+    "sha256": "afe6354c154bbede35f4a99f6f5b44ac90945fe05ff806a2127226a43dc8214e",
+    "retrieved_at_utc": "2026-09-14T19:44:03.344199+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/nov18pub.dat.gz",
+    "file": "cps/2018/nov18pub.dat.gz",
+    "bytes": 12363444,
+    "sha256": "a6a78a6eadfe719ce643d12e685324b511ea75d67bc41f98f73fb48ecdac11e6",
+    "retrieved_at_utc": "2026-09-14T19:44:04.839764+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:31 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/oct18pub.dat.gz",
+    "file": "cps/2018/oct18pub.dat.gz",
+    "bytes": 12447885,
+    "sha256": "10ea1eda58e6d9e6e9c2c7f886f0666a4745a30de60b046215ddb9884999618f",
+    "retrieved_at_utc": "2026-09-14T19:44:17.165380+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:33 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2018/basic/sep18pub.dat.gz",
+    "file": "cps/2018/sep18pub.dat.gz",
+    "bytes": 12477277,
+    "sha256": "11714c40a82fc8c20d8fa1e4a8c0e9988c6b4bc9d124341c2b7081704827c089",
+    "retrieved_at_utc": "2026-09-14T19:43:49.053117+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:38:36 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/apr19pub.dat.gz",
+    "file": "cps/2019/apr19pub.dat.gz",
+    "bytes": 12149673,
+    "sha256": "15e098f448f378a8654882349670bde300adb58e99678e613bcc03c3381bc3d7",
+    "retrieved_at_utc": "2026-09-14T19:44:13.683496+00:00",
+    "last_modified": "Wed, 12 Feb 2020 14:15:45 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/aug19pub.dat.gz",
+    "file": "cps/2019/aug19pub.dat.gz",
+    "bytes": 12103221,
+    "sha256": "a0280d65759888161649ed4b46bc60234edf33135150c4c8156b6ee1b9390b6b",
+    "retrieved_at_utc": "2026-09-14T19:44:22.563306+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:39:41 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/dec19pub.dat.gz",
+    "file": "cps/2019/dec19pub.dat.gz",
+    "bytes": 11979839,
+    "sha256": "53ed07004cc8e9f7254e7dc174dd83dbbc8f281c9c3761532bd39d5964d95d6d",
+    "retrieved_at_utc": "2026-09-14T19:44:03.361696+00:00",
+    "last_modified": "Thu, 16 Jan 2020 15:13:25 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/feb19pub.dat.gz",
+    "file": "cps/2019/feb19pub.dat.gz",
+    "bytes": 12213811,
+    "sha256": "60f61a68a6dd9b8d41b7c78ad9c7694655b11e5a399d093eb4c9547f9df17cf9",
+    "retrieved_at_utc": "2026-09-14T19:44:35.484251+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:39:46 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/jan19pub.dat.gz",
+    "file": "cps/2019/jan19pub.dat.gz",
+    "bytes": 12329229,
+    "sha256": "321102ee2fc0f97ce72371560c50bd9da70ea53a0c0379ffeeab7b81e2ec67e1",
+    "retrieved_at_utc": "2026-09-14T19:44:38.980967+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:39:48 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/jul19pub.dat.gz",
+    "file": "cps/2019/jul19pub.dat.gz",
+    "bytes": 12037773,
+    "sha256": "76889e61a3299c9a46169bcf96a8c733dbd295c26673cf2778b7be036c187e42",
+    "retrieved_at_utc": "2026-09-14T19:44:21.494972+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:39:50 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/jun19pub.dat.gz",
+    "file": "cps/2019/jun19pub.dat.gz",
+    "bytes": 12089712,
+    "sha256": "b6351219eae05ffac8488cc67433be91202c91b64b84e0d40b6d68c5a71b2b20",
+    "retrieved_at_utc": "2026-09-14T19:44:37.035200+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:39:53 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/mar19pub.dat.gz",
+    "file": "cps/2019/mar19pub.dat.gz",
+    "bytes": 12106363,
+    "sha256": "0ce19e665261e4fa6e70728c39fdf5f0ebc39c5dc6979a638306ac19517ad115",
+    "retrieved_at_utc": "2026-09-14T19:45:02.140134+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:39:56 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/may19pub.dat.gz",
+    "file": "cps/2019/may19pub.dat.gz",
+    "bytes": 12015632,
+    "sha256": "245a12de9aaa8ed9ad7d7f7a8901e1adcdfd83c4c73c2e78648545f1043c7080",
+    "retrieved_at_utc": "2026-09-14T19:44:12.831016+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:39:59 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/nov19pub.dat.gz",
+    "file": "cps/2019/nov19pub.dat.gz",
+    "bytes": 11962914,
+    "sha256": "5eb62b47ff4629166e9b702d436810d85713b236d027b6ae3e864fdade1f9d0b",
+    "retrieved_at_utc": "2026-09-14T19:44:25.951102+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:40:02 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/oct19pub.dat.gz",
+    "file": "cps/2019/oct19pub.dat.gz",
+    "bytes": 12017703,
+    "sha256": "31fae47c34b5f78b9362713dccff6d2ed8ff0bcc7e54b4ddf8cd672d74cb7bbb",
+    "retrieved_at_utc": "2026-09-14T19:44:14.308664+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:40:04 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2019/basic/sep19pub.dat.gz",
+    "file": "cps/2019/sep19pub.dat.gz",
+    "bytes": 12021739,
+    "sha256": "99817448c5f15595c2a901560302a4e6f6366b88ef0af42d82531fe88159a6ee",
+    "retrieved_at_utc": "2026-09-14T19:44:22.869551+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:40:06 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/apr20pub.dat.gz",
+    "file": "cps/2020/apr20pub.dat.gz",
+    "bytes": 10863277,
+    "sha256": "8aabd721822e4c7ad41565f8b408752bb2e456549f2ac85c2d7e8ce3d2fb8960",
+    "retrieved_at_utc": "2026-09-14T19:44:59.575948+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:27:15 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/aug20pub.dat.gz",
+    "file": "cps/2020/aug20pub.dat.gz",
+    "bytes": 10619090,
+    "sha256": "8f65de20251950e9b7af870418c3f309e46b36a03913a485b964b2ad349d6b9b",
+    "retrieved_at_utc": "2026-09-14T19:45:02.249085+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:27:22 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/dec20pub.dat.gz",
+    "file": "cps/2020/dec20pub.dat.gz",
+    "bytes": 11236703,
+    "sha256": "00e491212e0191aa961dfee65cab6c2bacadcc9bb4c2a2a796a5a551ab11f859",
+    "retrieved_at_utc": "2026-09-14T19:44:29.617633+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:27:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/feb20pub.dat.gz",
+    "file": "cps/2020/feb20pub.dat.gz",
+    "bytes": 12031392,
+    "sha256": "24361dccdb77c181906d08c9efc5563c1c561574c6f7842d362a4656502c7fe9",
+    "retrieved_at_utc": "2026-09-14T19:45:11.445920+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:27:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/jan20pub.dat.gz",
+    "file": "cps/2020/jan20pub.dat.gz",
+    "bytes": 11973369,
+    "sha256": "b4235db016ac963e523b0ede9415afb3c9b18725be2cc405e5a8b7fdb96f658d",
+    "retrieved_at_utc": "2026-09-14T19:45:05.299669+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:27:47 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/jul20pub.dat.gz",
+    "file": "cps/2020/jul20pub.dat.gz",
+    "bytes": 10351601,
+    "sha256": "2dd4ba79680652e862ab8e46bd8df27b9da11c3f94fd446685b9eb3d06c4762d",
+    "retrieved_at_utc": "2026-09-14T19:45:05.697660+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:27:54 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/jun20pub.dat.gz",
+    "file": "cps/2020/jun20pub.dat.gz",
+    "bytes": 10195823,
+    "sha256": "5ba4367a1c8704b05824ebb631dbc71490c72ef43708e7f5eca2f758bedf33aa",
+    "retrieved_at_utc": "2026-09-14T19:45:03.400789+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:28:01 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/mar20pub.dat.gz",
+    "file": "cps/2020/mar20pub.dat.gz",
+    "bytes": 11094331,
+    "sha256": "1bc74d8b199b4d0e80506fd6ab0aef21c4218523d5ab234e59db8e1258c7716e",
+    "retrieved_at_utc": "2026-09-14T19:45:11.930064+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:28:08 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/may20pub.dat.gz",
+    "file": "cps/2020/may20pub.dat.gz",
+    "bytes": 10563627,
+    "sha256": "9d7570dbe2f8744ef2a7781b60362296011e9e72f70be3f830d3253fbda92249",
+    "retrieved_at_utc": "2026-09-14T19:44:49.935397+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:28:13 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/nov20pub.dat.gz",
+    "file": "cps/2020/nov20pub.dat.gz",
+    "bytes": 11518191,
+    "sha256": "0ab2499a9f1156c91281689287a637e2785ee784c466533217ff69d21a979d48",
+    "retrieved_at_utc": "2026-09-14T19:44:32.145240+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:28:21 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/oct20pub.dat.gz",
+    "file": "cps/2020/oct20pub.dat.gz",
+    "bytes": 11674942,
+    "sha256": "44fa6abf600f008377365a99b89ab9c224b30ab4debf5a8d9cf198071eef0d67",
+    "retrieved_at_utc": "2026-09-14T19:44:28.087936+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:28:29 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/sep20pub.dat.gz",
+    "file": "cps/2020/sep20pub.dat.gz",
+    "bytes": 11527094,
+    "sha256": "9b5f8d5a07fb34062562f532567bcfb93c60ba0f5e4e328ff0cd00003915c35a",
+    "retrieved_at_utc": "2026-09-14T19:44:28.814026+00:00",
+    "last_modified": "Fri, 06 Aug 2021 15:28:36 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/apr21pub.dat.gz",
+    "file": "cps/2021/apr21pub.dat.gz",
+    "bytes": 11408727,
+    "sha256": "2b757da6044dfc01bad9392565a225a583ffa5da2133fd4232123455009af487",
+    "retrieved_at_utc": "2026-09-14T19:44:50.990094+00:00",
+    "last_modified": "Fri, 07 May 2021 13:08:37 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/aug21pub.dat.gz",
+    "file": "cps/2021/aug21pub.dat.gz",
+    "bytes": 11050968,
+    "sha256": "e7b3c11f3441ab55d2f1ba7d104d8b562b31a1e8985fbbfd6b61d96ea5d2f6f2",
+    "retrieved_at_utc": "2026-09-14T19:44:43.245794+00:00",
+    "last_modified": "Wed, 08 Sep 2021 16:35:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/dec21pub.dat.gz",
+    "file": "cps/2021/dec21pub.dat.gz",
+    "bytes": 10678466,
+    "sha256": "bd0a2868930d92fde94713163a66d812879140713cdc3219b6251fe827576e2d",
+    "retrieved_at_utc": "2026-09-14T19:44:55.808638+00:00",
+    "last_modified": "Wed, 12 Jan 2022 18:49:54 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/feb21pub.dat.gz",
+    "file": "cps/2021/feb21pub.dat.gz",
+    "bytes": 11321728,
+    "sha256": "b6414f23ee9253d39cb60a9e9a6936995e3eba3d7bc315d10f57e82fdbc560f3",
+    "retrieved_at_utc": "2026-09-14T19:45:00.312145+00:00",
+    "last_modified": "Wed, 10 Mar 2021 16:58:40 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/jan21pub.dat.gz",
+    "file": "cps/2021/jan21pub.dat.gz",
+    "bytes": 11401711,
+    "sha256": "4b1fcb59e8e9be80173db63cc92d01db8c5c264d1eb0fbfdb2ee9ff59380c9cd",
+    "retrieved_at_utc": "2026-09-14T19:44:57.201475+00:00",
+    "last_modified": "Tue, 16 Feb 2021 14:16:12 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/jul21pub.dat.gz",
+    "file": "cps/2021/jul21pub.dat.gz",
+    "bytes": 11072644,
+    "sha256": "1d7760df6f4461a7ee5574ddadbb74d6b0a64d7d43b52d0fd96abb11d041f1f0",
+    "retrieved_at_utc": "2026-09-14T19:44:44.071433+00:00",
+    "last_modified": "Fri, 06 Aug 2021 12:38:00 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/jun21pub.dat.gz",
+    "file": "cps/2021/jun21pub.dat.gz",
+    "bytes": 11051745,
+    "sha256": "6caaf68e554aaa2b69e78e6da9c22c18d91c3c0a31d4485c91c0edac9b5d8005",
+    "retrieved_at_utc": "2026-09-14T19:44:47.501827+00:00",
+    "last_modified": "Wed, 07 Jul 2021 16:15:44 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/mar21pub.dat.gz",
+    "file": "cps/2021/mar21pub.dat.gz",
+    "bytes": 11163230,
+    "sha256": "29ee4d06cf7bb7bdcf13f2fa9b7704055eebf70bd1f53644c4ea2419e87d4e9e",
+    "retrieved_at_utc": "2026-09-14T19:44:43.765227+00:00",
+    "last_modified": "Tue, 13 Apr 2021 13:17:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/may21pub.dat.gz",
+    "file": "cps/2021/may21pub.dat.gz",
+    "bytes": 11312410,
+    "sha256": "c6e0899b4a724432170fc79bb9daad1f734cd893c1f3221ff2732355e3c8f946",
+    "retrieved_at_utc": "2026-09-14T19:44:50.407130+00:00",
+    "last_modified": "Wed, 09 Jun 2021 15:26:23 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/nov21pub.dat.gz",
+    "file": "cps/2021/nov21pub.dat.gz",
+    "bytes": 10715855,
+    "sha256": "6e86bed3b652a38749e66d280dc2d16f63a694c3fa6feaf14e177f27a6af02b7",
+    "retrieved_at_utc": "2026-09-14T19:45:10.504401+00:00",
+    "last_modified": "Wed, 08 Dec 2021 17:56:58 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/oct21pub.dat.gz",
+    "file": "cps/2021/oct21pub.dat.gz",
+    "bytes": 10955570,
+    "sha256": "c7fa6415eabbb8de3794acd222577bdfd7c5faa962cf8a87d45d6542e9eed699",
+    "retrieved_at_utc": "2026-09-14T19:44:42.932697+00:00",
+    "last_modified": "Wed, 10 Nov 2021 17:10:09 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/sep21pub.dat.gz",
+    "file": "cps/2021/sep21pub.dat.gz",
+    "bytes": 10822410,
+    "sha256": "503333b87b5c1e078cc0f36a0fcfb51d2365459e227cec2812a1e8247c795a23",
+    "retrieved_at_utc": "2026-09-14T19:44:41.656233+00:00",
+    "last_modified": "Fri, 08 Oct 2021 12:53:21 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/apr22pub.dat.gz",
+    "file": "cps/2022/apr22pub.dat.gz",
+    "bytes": 10848784,
+    "sha256": "c3cbec8a64d7e642e112f01b93801bcb323a074503ef808d6af3b63dc2b37b99",
+    "retrieved_at_utc": "2026-09-14T19:44:57.193635+00:00",
+    "last_modified": "Wed, 11 May 2022 16:11:58 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/aug22pub.dat.gz",
+    "file": "cps/2022/aug22pub.dat.gz",
+    "bytes": 10793467,
+    "sha256": "7cb0fb2301630c7a27641fecea8002714e6b834f6e7228e94690cba755086191",
+    "retrieved_at_utc": "2026-09-14T19:45:02.524532+00:00",
+    "last_modified": "Wed, 07 Sep 2022 15:53:21 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/dec22pub.dat.gz",
+    "file": "cps/2022/dec22pub.dat.gz",
+    "bytes": 10418550,
+    "sha256": "f427affdabf080359d46331c9db78190322a15503dd104a2ba876fd073feda03",
+    "retrieved_at_utc": "2026-09-14T19:45:07.460786+00:00",
+    "last_modified": "Wed, 11 Jan 2023 19:22:55 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/feb22pub.dat.gz",
+    "file": "cps/2022/feb22pub.dat.gz",
+    "bytes": 10804329,
+    "sha256": "8c9cc639a60264c508f8fb1156ba9b055dacd6b9d7e6565c088e492e0cb4b42d",
+    "retrieved_at_utc": "2026-09-14T19:45:00.139166+00:00",
+    "last_modified": "Thu, 10 Mar 2022 12:17:16 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/jan22pub.dat.gz",
+    "file": "cps/2022/jan22pub.dat.gz",
+    "bytes": 10793680,
+    "sha256": "4258e1bbe124202084194c20f29d9b31061cf5b4c024557ef47600d2da587085",
+    "retrieved_at_utc": "2026-09-14T19:45:00.543853+00:00",
+    "last_modified": "Fri, 04 Feb 2022 13:34:53 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/jul22pub.dat.gz",
+    "file": "cps/2022/jul22pub.dat.gz",
+    "bytes": 10717610,
+    "sha256": "3e8453fbb6897ee4844966cbfe2c2c15cdd0e7c317c7cb503c1ee87cd783f70f",
+    "retrieved_at_utc": "2026-09-14T19:45:10.205948+00:00",
+    "last_modified": "Wed, 10 Aug 2022 15:41:25 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/jun22pub.dat.gz",
+    "file": "cps/2022/jun22pub.dat.gz",
+    "bytes": 10773557,
+    "sha256": "a5e51023fdc74a17875b5d6fabf6d430d3d1e37feda26c07734108a3228de949",
+    "retrieved_at_utc": "2026-09-14T19:44:58.078960+00:00",
+    "last_modified": "Wed, 13 Jul 2022 15:42:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/mar22pub.dat.gz",
+    "file": "cps/2022/mar22pub.dat.gz",
+    "bytes": 10601992,
+    "sha256": "bdee06c5ade9cc5d364bfbb83a919bbe6b8e7d2dd0dfaf5229b7dcad6e2b04c8",
+    "retrieved_at_utc": "2026-09-14T19:45:13.472499+00:00",
+    "last_modified": "Fri, 01 Apr 2022 12:54:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/may22pub.dat.gz",
+    "file": "cps/2022/may22pub.dat.gz",
+    "bytes": 10956138,
+    "sha256": "895aa449dd111ce4d6e4e13314fc226dac28ff7751aabd0b0876f6d29908971e",
+    "retrieved_at_utc": "2026-09-14T19:44:59.164195+00:00",
+    "last_modified": "Wed, 08 Jun 2022 16:23:57 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/nov22pub.dat.gz",
+    "file": "cps/2022/nov22pub.dat.gz",
+    "bytes": 10526726,
+    "sha256": "4703b551365f8523ea3c6b0cfe59701b0c6b49f0c7245cd7498331a3f1f41fdc",
+    "retrieved_at_utc": "2026-09-14T19:45:03.772218+00:00",
+    "last_modified": "Wed, 07 Dec 2022 16:57:00 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/oct22pub.dat.gz",
+    "file": "cps/2022/oct22pub.dat.gz",
+    "bytes": 10622818,
+    "sha256": "0648fd18e889b0dda89e60f6f8bbb9ac32c8e4e5f01fa602b9912945a6f8578f",
+    "retrieved_at_utc": "2026-09-14T19:45:07.377090+00:00",
+    "last_modified": "Wed, 09 Nov 2022 16:46:46 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/sep22pub.dat.gz",
+    "file": "cps/2022/sep22pub.dat.gz",
+    "bytes": 10681223,
+    "sha256": "cac2b5d1b18cd51ad5e53c84cec51409507a0484f4c62e186526210f9b4a7cb7",
+    "retrieved_at_utc": "2026-09-14T19:45:14.184306+00:00",
+    "last_modified": "Wed, 12 Oct 2022 16:32:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/apr23pub.dat.gz",
+    "file": "cps/2023/apr23pub.dat.gz",
+    "bytes": 9926880,
+    "sha256": "5c51bad952d352f22d39acde3f57f1847c374044ba89ef9d53c84f7ba22d6020",
+    "retrieved_at_utc": "2026-09-14T19:43:30.929654+00:00",
+    "last_modified": "Wed, 10 May 2023 17:26:29 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/aug23pub.dat.gz",
+    "file": "cps/2023/aug23pub.dat.gz",
+    "bytes": 10150651,
+    "sha256": "6360eae03f4cbf1efbeda7aa44c0bbbfa5a59e3804e6b4bbe83e46b2b4324c1b",
+    "retrieved_at_utc": "2026-09-14T19:31:25.543437+00:00",
+    "last_modified": "Wed, 06 Sep 2023 15:28:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/dec23pub.dat.gz",
+    "file": "cps/2023/dec23pub.dat.gz",
+    "bytes": 9946926,
+    "sha256": "a1bb5582e642168f1c577bc343a08b04c5f405a9aa1519847b1b155175707c7e",
+    "retrieved_at_utc": "2026-09-14T19:29:57.437888+00:00",
+    "last_modified": "Wed, 10 Jan 2024 16:40:03 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/feb23pub.dat.gz",
+    "file": "cps/2023/feb23pub.dat.gz",
+    "bytes": 9758270,
+    "sha256": "3e5a2b1fe811da238b09ccb518eaee5e8ba25f622e743533a0c4f2a1c1cb7b70",
+    "retrieved_at_utc": "2026-09-14T19:43:49.575085+00:00",
+    "last_modified": "Wed, 15 Mar 2023 18:02:14 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/jan23pub.dat.gz",
+    "file": "cps/2023/jan23pub.dat.gz",
+    "bytes": 9928771,
+    "sha256": "a43bffbe176a2f11f8208ccec2128e0cbbf018141b57ef0cab304bb7715016cc",
+    "retrieved_at_utc": "2026-09-14T19:43:24.532819+00:00",
+    "last_modified": "Thu, 23 Feb 2023 15:10:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/jul23pub.dat.gz",
+    "file": "cps/2023/jul23pub.dat.gz",
+    "bytes": 10089589,
+    "sha256": "81202e61b46ae55d5e7b85646e775da09aefb581bc9b8c13ba09b8faa587a84e",
+    "retrieved_at_utc": "2026-09-14T19:43:15.207360+00:00",
+    "last_modified": "Wed, 09 Aug 2023 16:35:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/jun23pub.dat.gz",
+    "file": "cps/2023/jun23pub.dat.gz",
+    "bytes": 10032250,
+    "sha256": "de64e092a42b9e32bbd9fe12988b967e1ce25a0a76ff832c972c97cbfb8503cc",
+    "retrieved_at_utc": "2026-09-14T19:43:27.982924+00:00",
+    "last_modified": "Wed, 12 Jul 2023 15:43:44 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/mar23pub.dat.gz",
+    "file": "cps/2023/mar23pub.dat.gz",
+    "bytes": 9698341,
+    "sha256": "bccbc20d69ad7280f76e98e654f9345991a063e1535806bc6c55df055ba6bbf5",
+    "retrieved_at_utc": "2026-09-14T19:43:24.915458+00:00",
+    "last_modified": "Wed, 12 Apr 2023 15:51:45 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/may23pub.dat.gz",
+    "file": "cps/2023/may23pub.dat.gz",
+    "bytes": 10015573,
+    "sha256": "75d9bf3db843ab3042fa72231e285134067a7a57319b2c0fdd4d9ce837ae7e83",
+    "retrieved_at_utc": "2026-09-14T19:31:10.272711+00:00",
+    "last_modified": "Wed, 07 Jun 2023 16:01:02 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/nov23pub.dat.gz",
+    "file": "cps/2023/nov23pub.dat.gz",
+    "bytes": 10018857,
+    "sha256": "034563dd0c797355897ea709673bf8110b9884d33510cd4932af41ec1f3b0971",
+    "retrieved_at_utc": "2026-09-14T19:29:50.310877+00:00",
+    "last_modified": "Thu, 14 Dec 2023 17:02:23 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/oct23pub.dat.gz",
+    "file": "cps/2023/oct23pub.dat.gz",
+    "bytes": 10155642,
+    "sha256": "828a1b9891dcbb623580ea9f7a7d58bfa7886069cf70cc0e2752f3289d73eceb",
+    "retrieved_at_utc": "2026-09-14T19:29:50.511789+00:00",
+    "last_modified": "Wed, 08 Nov 2023 16:51:04 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/sep23pub.dat.gz",
+    "file": "cps/2023/sep23pub.dat.gz",
+    "bytes": 10009682,
+    "sha256": "c0bd9ebcce2ec058b8f005f0085d65ff8a66bfba3f146a9d9c2b71b03ebce2c7",
+    "retrieved_at_utc": "2026-09-14T19:31:33.511077+00:00",
+    "last_modified": "Wed, 11 Oct 2023 15:22:53 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/apr24pub.dat.gz",
+    "file": "cps/2024/apr24pub.dat.gz",
+    "bytes": 10437494,
+    "sha256": "92f11f7472dd68a63f78cf9341a11a8ddfcbf032b1685ac8252fc7de43cf97a0",
+    "retrieved_at_utc": "2026-09-14T19:30:35.857305+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:15:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/aug24pub.dat.gz",
+    "file": "cps/2024/aug24pub.dat.gz",
+    "bytes": 10660569,
+    "sha256": "d17b86e4691072fceb5fd3b6d64f0ac2ced1ee916f8a7fc29cdba5c31f41e6fe",
+    "retrieved_at_utc": "2026-09-14T19:29:20.071833+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:15:35 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/dec24pub.dat.gz",
+    "file": "cps/2024/dec24pub.dat.gz",
+    "bytes": 10525997,
+    "sha256": "a6c86ae17cf517a7d257bab71e537531ae5188683b1179a8b4ae2d0a5263d49d",
+    "retrieved_at_utc": "2026-09-14T19:43:34.210811+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:15:41 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/feb24pub.dat.gz",
+    "file": "cps/2024/feb24pub.dat.gz",
+    "bytes": 10488060,
+    "sha256": "57fc767f07dfd5cf4dbee998255254818cea55f905339b6a669f046ccc8c9322",
+    "retrieved_at_utc": "2026-09-14T19:30:41.639249+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:15:46 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/jan24pub.dat.gz",
+    "file": "cps/2024/jan24pub.dat.gz",
+    "bytes": 10003758,
+    "sha256": "881367086551bbb0c800c22f3790203c90ee9aa5dd0d1add1734bd6ce456e50a",
+    "retrieved_at_utc": "2026-09-14T19:43:46.696903+00:00",
+    "last_modified": "Wed, 16 Jul 2025 17:45:26 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/jul24pub.dat.gz",
+    "file": "cps/2024/jul24pub.dat.gz",
+    "bytes": 10601362,
+    "sha256": "0e88909a881dafa85f1e57fbc82d6d90072e4a74651fee4c34472d5b82f383cf",
+    "retrieved_at_utc": "2026-09-14T19:29:19.218649+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:15:52 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/jun24pub.dat.gz",
+    "file": "cps/2024/jun24pub.dat.gz",
+    "bytes": 10518511,
+    "sha256": "23757a0eede5d625bffbb209fbe4a3c0617c1c514f10d317c5f643ff8782bc14",
+    "retrieved_at_utc": "2026-09-14T19:29:12.980046+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:15:53 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/mar24pub.dat.gz",
+    "file": "cps/2024/mar24pub.dat.gz",
+    "bytes": 10231717,
+    "sha256": "af3d6b51f396391a6ff81ee5ba3f9aa2703b57fbc4f2da92022266f00670c34a",
+    "retrieved_at_utc": "2026-09-14T19:29:42.823187+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:15:58 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/may24pub.dat.gz",
+    "file": "cps/2024/may24pub.dat.gz",
+    "bytes": 10480842,
+    "sha256": "cdaaa53c581593d6dc2269e7d9158eaca2e5679b3bd8693171cc7a2c1607e7d1",
+    "retrieved_at_utc": "2026-09-14T19:30:23.755038+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:16:03 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/nov24pub.dat.gz",
+    "file": "cps/2024/nov24pub.dat.gz",
+    "bytes": 10546008,
+    "sha256": "16dd87822be459a91f9aabc125eea87232196350f6b54e1aa1e9fc339b68ca88",
+    "retrieved_at_utc": "2026-09-14T19:29:16.937745+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:16:09 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/oct24pub.dat.gz",
+    "file": "cps/2024/oct24pub.dat.gz",
+    "bytes": 10553506,
+    "sha256": "7c6a8606dc76a3fa9d3ce2c372f16381cef41d3567d4415ff5cf6294126bd781",
+    "retrieved_at_utc": "2026-09-14T19:29:03.033799+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:16:14 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/sep24pub.dat.gz",
+    "file": "cps/2024/sep24pub.dat.gz",
+    "bytes": 10597534,
+    "sha256": "6f342a7bc1bf43370362f0ffc8785be890a465afc6fdb927aed7e2eeeeae206c",
+    "retrieved_at_utc": "2026-09-14T19:29:42.725770+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:16:19 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/apr25pub.dat.gz",
+    "file": "cps/2025/apr25pub.dat.gz",
+    "bytes": 10233961,
+    "sha256": "7fc5601f2e8075353669e15f9c6a23be889bc8ba071b0e036830eeecb79fdde5",
+    "retrieved_at_utc": "2026-09-14T19:28:48.413797+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:45:31 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/aug25pub.dat.gz",
+    "file": "cps/2025/aug25pub.dat.gz",
+    "bytes": 10022289,
+    "sha256": "6c4cda5c271b85e02ac9a3d089c114f2abd4732f024aad58e71549467a06efb9",
+    "retrieved_at_utc": "2026-09-14T19:28:09.324196+00:00",
+    "last_modified": "Wed, 10 Sep 2025 15:00:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/dec25pub.dat.gz",
+    "file": "cps/2025/dec25pub.dat.gz",
+    "bytes": 9489416,
+    "sha256": "b7be5a4dc5e3a0a2bc8394483e807d99b9314363f3ca662249bb5291370435be",
+    "retrieved_at_utc": "2026-09-14T19:28:20.120022+00:00",
+    "last_modified": "Wed, 14 Jan 2026 16:00:57 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/feb25pub.dat.gz",
+    "file": "cps/2025/feb25pub.dat.gz",
+    "bytes": 10413926,
+    "sha256": "90230dc1f3eed382ff5c7690d2fc531e8ed213f2207312404467b0e214cf0bd2",
+    "retrieved_at_utc": "2026-09-14T19:28:45.421771+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:45:36 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/jan25pub.dat.gz",
+    "file": "cps/2025/jan25pub.dat.gz",
+    "bytes": 10478955,
+    "sha256": "143d819c7bf300a0e789cd3586f4be58dc6ea352af97f2a1d87744737afc54c5",
+    "retrieved_at_utc": "2026-09-14T19:29:03.391323+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:45:39 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/jul25pub.dat.gz",
+    "file": "cps/2025/jul25pub.dat.gz",
+    "bytes": 10125912,
+    "sha256": "3b284881dfb05061c2197555ccffae1572c8f955de7407984b4bb72774b51da1",
+    "retrieved_at_utc": "2026-09-14T19:28:59.390356+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:30:33 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/jun25pub.dat.gz",
+    "file": "cps/2025/jun25pub.dat.gz",
+    "bytes": 10182550,
+    "sha256": "44315f3d90b9b0c747b590b43e32a5fabd45930932b7ddfc5d0dd85af144801a",
+    "retrieved_at_utc": "2026-09-14T19:28:27.946404+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:30:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/mar25pub.dat.gz",
+    "file": "cps/2025/mar25pub.dat.gz",
+    "bytes": 10202167,
+    "sha256": "688e9de69edfab647125a4e38de8112ab74869982c7bdbb20055b816f4422570",
+    "retrieved_at_utc": "2026-09-14T19:29:03.691186+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:45:44 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/may25pub.dat.gz",
+    "file": "cps/2025/may25pub.dat.gz",
+    "bytes": 10220995,
+    "sha256": "7acb937f529a49052fcfc9d4b95154ae9f4cb314385adfa21d14ec1355800f33",
+    "retrieved_at_utc": "2026-09-14T19:29:25.467812+00:00",
+    "last_modified": "Fri, 26 Sep 2025 13:45:49 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/nov25pub.dat.gz",
+    "file": "cps/2025/nov25pub.dat.gz",
+    "bytes": 9499635,
+    "sha256": "d81da3b677927c74c01cdd000174bf1a7217ffb083a4d5b3d6f5980505a0bcde",
+    "retrieved_at_utc": "2026-09-14T19:28:44.719534+00:00",
+    "last_modified": "Thu, 18 Dec 2025 15:45:45 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/sep25pub.dat.gz",
+    "file": "cps/2025/sep25pub.dat.gz",
+    "bytes": 9936775,
+    "sha256": "41d6de74c088a466e48d77376de0cf1bdf66e5f4aeddd451d09cc8d8cd536eaa",
+    "retrieved_at_utc": "2026-09-14T19:28:00.336317+00:00",
+    "last_modified": "Fri, 21 Nov 2025 14:45:26 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/apr26pub.dat.gz",
+    "file": "cps/2026/apr26pub.dat.gz",
+    "bytes": 9590761,
+    "sha256": "a1b38258ae1012badcbd7ff557ff5e2ddf5c01c54478dbd2c2144e221906e095",
+    "retrieved_at_utc": "2026-09-14T19:27:26.154559+00:00",
+    "last_modified": "Wed, 13 May 2026 16:01:07 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/aug26pub.dat.gz",
+    "file": "cps/2026/aug26pub.dat.gz",
+    "bytes": 9579569,
+    "sha256": "ada56b62bb9fa2abb3ab56d1b2037c68b7f459eb2c89c7d9399df198a2984d65",
+    "retrieved_at_utc": "2026-09-14T19:28:33.323399+00:00",
+    "last_modified": "Wed, 09 Sep 2026 14:01:41 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/feb26pub.dat.gz",
+    "file": "cps/2026/feb26pub.dat.gz",
+    "bytes": 9611097,
+    "sha256": "85f68712f576f2421b0be2855615b3b3e1a1b252a01725926176a3ed5ed08868",
+    "retrieved_at_utc": "2026-09-14T19:28:02.399544+00:00",
+    "last_modified": "Wed, 11 Mar 2026 15:15:29 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/jan26pub.dat.gz",
+    "file": "cps/2026/jan26pub.dat.gz",
+    "bytes": 9469308,
+    "sha256": "63f3dd7ebd234c1bb4a7caf96fd882d03f0be7f8e6d062180738e0a4f3e9d377",
+    "retrieved_at_utc": "2026-09-14T19:27:28.077704+00:00",
+    "last_modified": "Fri, 13 Mar 2026 12:30:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/jul26pub.dat.gz",
+    "file": "cps/2026/jul26pub.dat.gz",
+    "bytes": 9502622,
+    "sha256": "a97d4908014689f29c2f833c01289c6564c8a27c0b5358562dd111eb33e05247",
+    "retrieved_at_utc": "2026-09-14T19:27:46.519534+00:00",
+    "last_modified": "Wed, 12 Aug 2026 14:00:32 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/jun26pub.dat.gz",
+    "file": "cps/2026/jun26pub.dat.gz",
+    "bytes": 9559413,
+    "sha256": "f20d53bcaab977033ff7c7b48b9bafb675c61d7d78bfca73d6853f18325369ae",
+    "retrieved_at_utc": "2026-09-14T19:26:58.829793+00:00",
+    "last_modified": "Wed, 08 Jul 2026 15:00:29 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/mar26pub.dat.gz",
+    "file": "cps/2026/mar26pub.dat.gz",
+    "bytes": 9388626,
+    "sha256": "17291f9f8e055966ccc92e29546b3c54035d302e0ee411e35eb2ecb24d45fb0a",
+    "retrieved_at_utc": "2026-09-14T19:28:13.770528+00:00",
+    "last_modified": "Wed, 08 Apr 2026 15:30:25 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/may26pub.dat.gz",
+    "file": "cps/2026/may26pub.dat.gz",
+    "bytes": 9626197,
+    "sha256": "02a67a81aaa64d7007730cab67fa29f5e23db3a6d7a7e876af31208961f4a666",
+    "retrieved_at_utc": "2026-09-14T19:29:08.976317+00:00",
+    "last_modified": "Wed, 10 Jun 2026 15:00:27 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2020/basic/2020_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "file": "cps_dict/2020_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "bytes": 164654,
+    "sha256": "6980896b1529b6f6832d4261503eb1d1db2e86984a0e8d2506d24ba81102e5bf",
+    "retrieved_at_utc": "2026-09-14T19:44:08.242768+00:00",
+    "last_modified": "Thu, 05 Mar 2020 14:41:13 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2021/basic/2021_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "file": "cps_dict/2021_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "bytes": 166302,
+    "sha256": "f3f98e2ce21370e2912a5694d5552a50a5c8756328ac26f5bf81f063a79f2281",
+    "retrieved_at_utc": "2026-09-14T19:44:24.334373+00:00",
+    "last_modified": "Tue, 06 Apr 2021 14:09:46 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2022/basic/2022_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "file": "cps_dict/2022_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "bytes": 166305,
+    "sha256": "ed98d01f7d301f32e750a2ba6c1e32756179c74f703a0703170997f1d514898f",
+    "retrieved_at_utc": "2026-09-14T19:44:45.190477+00:00",
+    "last_modified": "Thu, 22 Sep 2022 14:25:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2023/basic/2023_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "file": "cps_dict/2023_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "bytes": 166444,
+    "sha256": "4895273cf2aa25db259a2f1432c130da3e10212dc92fad1aea96c728fc41d071",
+    "retrieved_at_utc": "2026-09-14T19:29:38.284929+00:00",
+    "last_modified": "Thu, 15 Aug 2024 10:47:09 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2024/basic/2024_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "file": "cps_dict/2024_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "bytes": 167364,
+    "sha256": "7065678e6e62562183c1076d6846efea74f3fdb7f323f42f50cdfd5250a49a9d",
+    "retrieved_at_utc": "2026-09-14T19:28:46.478910+00:00",
+    "last_modified": "Tue, 16 Jul 2024 15:03:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2025/basic/2025_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "file": "cps_dict/2025_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "bytes": 167459,
+    "sha256": "f846661ba077f89d5ccd5e28d385f78b22d8986a8cadcf73bfa7a70bac007470",
+    "retrieved_at_utc": "2026-09-14T19:27:02.731912+00:00",
+    "last_modified": "Wed, 12 Feb 2025 16:24:20 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/2026_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "file": "cps_dict/2026_Basic_CPS_Public_Use_Record_Layout_plus_IO_Code_list.txt",
+    "bytes": 167001,
+    "sha256": "0c1acfbe3a669c204d32d36a458a12972c6a41c3311f02d4ff7b84e4b2885017",
+    "retrieved_at_utc": "2026-09-14T19:18:06.458669+00:00",
+    "last_modified": "Thu, 12 Feb 2026 16:30:26 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2013/basic/January_2013_Record_Layout.txt",
+    "file": "cps_dict/January_2013_Record_Layout.txt",
+    "bytes": 100460,
+    "sha256": "7e8fbc432f2bd7bce54737e270492a5f6b725afcaf1a6ee6e15015b2fe20e29b",
+    "retrieved_at_utc": "2026-09-14T19:30:42.226378+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:29:06 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2014/basic/January_2014_Record_Layout.txt",
+    "file": "cps_dict/January_2014_Record_Layout.txt",
+    "bytes": 105922,
+    "sha256": "8176d1a0f7cffc4f98744240848c3a8c562b172312415c29f0afca0a19a41d32",
+    "retrieved_at_utc": "2026-09-14T19:29:59.872976+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:30:11 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2015/basic/January_2015_Record_Layout.txt",
+    "file": "cps_dict/January_2015_Record_Layout.txt",
+    "bytes": 108124,
+    "sha256": "8ccf5ac8232a61588c68764fe945fe251613db3f1259b4feb066876431e31a65",
+    "retrieved_at_utc": "2026-09-14T19:30:00.299387+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:31:35 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/January_2017_Record_Layout.txt",
+    "file": "cps_dict/January_2017_Record_Layout.txt",
+    "bytes": 104678,
+    "sha256": "b5d977f86f2745d8d692612c8a3debf024f4be29a12b8cfc07664d8a6116e7a3",
+    "retrieved_at_utc": "2026-09-14T19:43:33.759307+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:35:38 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2005/basic/augnov05dd.txt",
+    "file": "cps_dict/augnov05dd.txt",
+    "bytes": 148299,
+    "sha256": "338fc213573d58c233b1a61c015a1e8b3055459990df398f08fb560b9f31462a",
+    "retrieved_at_utc": "2026-09-14T19:18:00.973147+00:00",
+    "last_modified": "Wed, 08 Jan 2020 15:43:28 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/cps_dd_record_layout.txt",
+    "file": "cps_dict/cps_dd_record_layout.txt",
+    "bytes": 171900,
+    "sha256": "b6ada4b0fc1f288e47794e73ea2165674ee571924eec55239fbebd4a97994940",
+    "retrieved_at_utc": "2026-09-14T19:25:35.958491+00:00",
+    "last_modified": "Wed, 12 Aug 2026 14:00:27 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2026/basic/cps_industry_codes.csv",
+    "file": "cps_dict/cps_industry_codes_2026.csv",
+    "bytes": 21255,
+    "sha256": "482e5ce9b8c84c73cca36ce1eb9577fbc0d012828c1d7f08af2c1a9719afc9d5",
+    "retrieved_at_utc": "2026-09-14T19:45:03.325813+00:00",
+    "last_modified": "Wed, 08 Jul 2026 15:00:26 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2007/basic/jan07dd.txt",
+    "file": "cps_dict/jan07dd.txt",
+    "bytes": 148637,
+    "sha256": "4afc9a2825f4ec4d821b41ee8822385305efc6a0de20ef12650a97d31879f035",
+    "retrieved_at_utc": "2026-09-14T19:20:50.845148+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:03:30 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2009/basic/jan09dd.txt",
+    "file": "cps_dict/jan09dd.txt",
+    "bytes": 148965,
+    "sha256": "f0a403b20f85179cf9bc8acbb389b4d6aeca3317631b1a48c5639d18b9daf228",
+    "retrieved_at_utc": "2026-09-14T19:24:31.518218+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:15:22 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2010/basic/jan10dd.txt",
+    "file": "cps_dict/jan10dd.txt",
+    "bytes": 149606,
+    "sha256": "a0b081d60d4e78ff32ca18e64b2833373cbcfdfa8012ecdac143583c0d97545a",
+    "retrieved_at_utc": "2026-09-14T19:25:09.509891+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:18:13 GMT"
+  },
+  {
+    "url": "https://www2.census.gov/programs-surveys/cps/datasets/2012/basic/may12dd.txt",
+    "file": "cps_dict/may12dd.txt",
+    "bytes": 148441,
+    "sha256": "356b6900d15ae6d9afb28b7c585574f71f93daa10adc003a076ffcd6e8c9ffb6",
+    "retrieved_at_utc": "2026-09-14T19:29:26.406650+00:00",
+    "last_modified": "Wed, 08 Jan 2020 16:26:34 GMT"
+  }
+]

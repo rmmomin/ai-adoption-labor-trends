@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.80b.OtherServices.AllEmployeeHoursAndEarnings",
+  "file": "bls/ce.data.80b.OtherServices.AllEmployeeHoursAndEarnings",
+  "bytes": 7416995,
+  "sha256": "0612532cc87e8edb8d524039b301bdce413c18ba48b8b67731324ebb866bf90c",
+  "retrieved_at_utc": "2026-09-14T19:22:24.232495+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+}

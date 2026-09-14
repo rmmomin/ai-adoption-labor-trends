@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.42a.RetailTrade.Employment",
+  "file": "bls/ce.data.42a.RetailTrade.Employment",
+  "bytes": 6950943,
+  "sha256": "a6a139ec37553489097a49fab518e938c32583ded13366d6b138e55e8c4376fe",
+  "retrieved_at_utc": "2026-09-14T19:19:28.017827+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:13 GMT"
+}

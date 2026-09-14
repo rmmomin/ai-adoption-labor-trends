@@ -1,0 +1,8 @@
+{
+  "url": "https://downloadt.bls.gov/pub/time.series/ce/ce.data.80a.OtherServices.Employment",
+  "file": "bls/ce.data.80a.OtherServices.Employment",
+  "bytes": 4982737,
+  "sha256": "66bb3fe871a86de8e74a4932fe10d49e5497ef018c62d736541aada1cb663b95",
+  "retrieved_at_utc": "2026-09-14T19:20:23.913079+00:00",
+  "last_modified": "Thu, 25 Jun 2026 16:27:16 GMT"
+}

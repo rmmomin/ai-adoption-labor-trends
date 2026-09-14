@@ -1,0 +1,8 @@
+{
+  "url": "https://www2.census.gov/programs-surveys/cps/datasets/2017/basic/dec17pub.dat.gz",
+  "file": "cps/2017/dec17pub.dat.gz",
+  "bytes": 12706888,
+  "sha256": "26a5e2ac484be8ad973d7ee641d568eb4326576275cb6c2a46e8bee6d7dd4067",
+  "retrieved_at_utc": "2026-09-14T19:44:05.852202+00:00",
+  "last_modified": "Wed, 08 Jan 2020 16:35:34 GMT"
+}
