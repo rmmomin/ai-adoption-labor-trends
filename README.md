@@ -393,3 +393,51 @@ SVG, and PDF; separate charts for all three splits; annual index data; sector an
 industry assignments and weights; a row-selection audit; source hashes; and
 `analysis.md` with methods and coverage. Validation checks source growth rates,
 complete annual coverage, base normalization, and the aggregation weights.
+
+## Payroll employment across BTOS, RPS and Ramp adoption groups
+
+Reproduce quartiles, quintiles and halves for each of the three adoption sources:
+
+```bash
+python3 scripts/compare_ai_adoption_employment.py
+```
+
+The nine-chart comparison uses the same 18 private industries and archived BLS
+CES seasonally adjusted payroll employment in every panel. It sums constituent
+industry employment, averages all three months of each quarter, and sets
+**2023 Q1 average = 100**. The saved vintage covers 14 complete quarters through
+2026 Q2. The monthly companion extends through August 2026 using the same
+quarterly-average base. No employment observations are interpolated or forecast;
+July–August 2026 are not treated as a complete quarter.
+
+Fixed rankings reproduce BTOS period 202618 (August 10–23, 2026), the May 2026
+RPS wave via St. Louis Fed/FRED, and Ramp's complete April 2026 sector download.
+Quartiles contain 5/4/4/5 industries, quintiles 4/3/4/3/4, and halves 9/9.
+These are descriptive industry comparisons, with different adoption measures
+and ranking dates. RPS is the Bick–Blandin–Deming survey; Chicago Fed QILP and
+the independent productivity estimates are not inputs to these payroll charts.
+
+Outputs in `outputs/ai_adoption_employment_comparison/` include the overview and
+nine individual PNG/SVG/PDF charts, a combined PDF, monthly overview, quarterly
+and monthly chart data, industry memberships and baseline employment weights,
+endpoint summaries, methods, input hashes, validation, and a ZIP of the results.
+Validation checks complete coverage, base normalization, sector-total
+reconciliation, the equivalent employment-weighted index formula, and agreement
+with the earlier monthly employment levels. Use `--outdir` to select another
+destination. The command uses archived sources and makes no network requests.
+
+The companion Excel workbook consolidates the quarterly indexes, detailed
+quarterly and monthly observations, industry assignments, CES inputs, and
+source notes. Its formulas reproduce the chart indexes and baseline weights.
+Build it after the comparison script with the Codex bundled Node runtime:
+
+```bash
+node scripts/build_ai_employment_workbook.mjs
+```
+
+The builder uses `@oai/artifact-tool` from the bundled dependency directory;
+set `CODEX_WORKSPACE_NODE_MODULES` to override that location. An optional first
+argument selects the output directory. The requested
+`outputs/ai_adoption_employment_comparison/ai_adoption_payroll_employment.xlsx`
+is versioned explicitly; other generated charts, previews and data exports keep
+the repository's usual ignore behavior.
