@@ -1,0 +1,782 @@
+[
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND1",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Agriculture, Forestry, Fishing, and Hunting",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND1",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 38.1192949026
+      },
+      {
+        "date": "2024-10-01",
+        "value": 37.5919668638
+      },
+      {
+        "date": "2025-01-01",
+        "value": 27.1530339618
+      },
+      {
+        "date": "2025-04-01",
+        "value": 37.0313108501
+      },
+      {
+        "date": "2025-07-01",
+        "value": 30.2578694331
+      },
+      {
+        "date": "2025-10-01",
+        "value": 35.7396735039
+      },
+      {
+        "date": "2026-01-01",
+        "value": 36.066809216
+      },
+      {
+        "date": "2026-04-01",
+        "value": 34.7706769906
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND2",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Mining, Quarrying, and Oil and Gas Extraction",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND2",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 50.5673798709
+      },
+      {
+        "date": "2024-10-01",
+        "value": 53.3473469954
+      },
+      {
+        "date": "2025-01-01",
+        "value": 58.9186479936
+      },
+      {
+        "date": "2025-04-01",
+        "value": 54.9223558799
+      },
+      {
+        "date": "2025-07-01",
+        "value": 65.3575628928
+      },
+      {
+        "date": "2025-10-01",
+        "value": 46.0659189673
+      },
+      {
+        "date": "2026-01-01",
+        "value": 44.9596940608
+      },
+      {
+        "date": "2026-04-01",
+        "value": 26.0994565394
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND3",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Construction",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND3",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 37.7758062888
+      },
+      {
+        "date": "2024-10-01",
+        "value": 33.9436568261
+      },
+      {
+        "date": "2025-01-01",
+        "value": 30.8926740488
+      },
+      {
+        "date": "2025-04-01",
+        "value": 37.3614483696
+      },
+      {
+        "date": "2025-07-01",
+        "value": 37.9361592583
+      },
+      {
+        "date": "2025-10-01",
+        "value": 42.8012639019
+      },
+      {
+        "date": "2026-01-01",
+        "value": 51.3578162907
+      },
+      {
+        "date": "2026-04-01",
+        "value": 43.5424833398
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND4",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Manufacturing",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND4",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 35.1998454672
+      },
+      {
+        "date": "2024-10-01",
+        "value": 25.0227811064
+      },
+      {
+        "date": "2025-01-01",
+        "value": 31.5258094344
+      },
+      {
+        "date": "2025-04-01",
+        "value": 35.0128845868
+      },
+      {
+        "date": "2025-07-01",
+        "value": 41.2298138271
+      },
+      {
+        "date": "2025-10-01",
+        "value": 39.8784203557
+      },
+      {
+        "date": "2026-01-01",
+        "value": 47.7054141765
+      },
+      {
+        "date": "2026-04-01",
+        "value": 47.6586710999
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND5",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Wholesale Trade",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND5",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 40.1064233108
+      },
+      {
+        "date": "2024-10-01",
+        "value": 37.6888855529
+      },
+      {
+        "date": "2025-01-01",
+        "value": 33.1450191327
+      },
+      {
+        "date": "2025-04-01",
+        "value": 41.633456879
+      },
+      {
+        "date": "2025-07-01",
+        "value": 39.4578598872
+      },
+      {
+        "date": "2025-10-01",
+        "value": 48.3760893537
+      },
+      {
+        "date": "2026-01-01",
+        "value": 35.3700672907
+      },
+      {
+        "date": "2026-04-01",
+        "value": 62.1165459402
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND6",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Retail Trade",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND6",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 34.7735490342
+      },
+      {
+        "date": "2024-10-01",
+        "value": 27.9143462875
+      },
+      {
+        "date": "2025-01-01",
+        "value": 27.1569651558
+      },
+      {
+        "date": "2025-04-01",
+        "value": 31.0596763863
+      },
+      {
+        "date": "2025-07-01",
+        "value": 27.0463243133
+      },
+      {
+        "date": "2025-10-01",
+        "value": 32.3973752672
+      },
+      {
+        "date": "2026-01-01",
+        "value": 33.592756528
+      },
+      {
+        "date": "2026-04-01",
+        "value": 39.4512265617
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND7",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Transportation and Warehousing",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND7",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 17.769577952
+      },
+      {
+        "date": "2024-10-01",
+        "value": 19.8676123175
+      },
+      {
+        "date": "2025-01-01",
+        "value": 23.1540027603
+      },
+      {
+        "date": "2025-04-01",
+        "value": 20.8097327979
+      },
+      {
+        "date": "2025-07-01",
+        "value": 30.5355267155
+      },
+      {
+        "date": "2025-10-01",
+        "value": 20.962503665
+      },
+      {
+        "date": "2026-01-01",
+        "value": 29.920733019
+      },
+      {
+        "date": "2026-04-01",
+        "value": 25.1041845591
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND8",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Utilities",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND8",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 33.2438456718
+      },
+      {
+        "date": "2024-10-01",
+        "value": 31.0331708114
+      },
+      {
+        "date": "2025-01-01",
+        "value": 40.7401527758
+      },
+      {
+        "date": "2025-04-01",
+        "value": 51.1037199779
+      },
+      {
+        "date": "2025-07-01",
+        "value": 43.7078472011
+      },
+      {
+        "date": "2025-10-01",
+        "value": 52.4954765705
+      },
+      {
+        "date": "2026-01-01",
+        "value": 47.1377413493
+      },
+      {
+        "date": "2026-04-01",
+        "value": 56.4271540336
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND9",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Information",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND9",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 64.7063583825
+      },
+      {
+        "date": "2024-10-01",
+        "value": 56.551084411
+      },
+      {
+        "date": "2025-01-01",
+        "value": 59.7148472626
+      },
+      {
+        "date": "2025-04-01",
+        "value": 59.3019751766
+      },
+      {
+        "date": "2025-07-01",
+        "value": 68.9688836895
+      },
+      {
+        "date": "2025-10-01",
+        "value": 70.3410050027
+      },
+      {
+        "date": "2026-01-01",
+        "value": 68.4476116405
+      },
+      {
+        "date": "2026-04-01",
+        "value": 82.1926036484
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND10",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Finance and Insurance",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND10",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 51.8733608276
+      },
+      {
+        "date": "2024-10-01",
+        "value": 48.4527961508
+      },
+      {
+        "date": "2025-01-01",
+        "value": 37.8603040592
+      },
+      {
+        "date": "2025-04-01",
+        "value": 45.4443301367
+      },
+      {
+        "date": "2025-07-01",
+        "value": 56.093571307
+      },
+      {
+        "date": "2025-10-01",
+        "value": 63.1825947913
+      },
+      {
+        "date": "2026-01-01",
+        "value": 66.1308517041
+      },
+      {
+        "date": "2026-04-01",
+        "value": 67.33240401
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND11",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Real Estate and Rental and Leasing",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND11",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 45.6119743571
+      },
+      {
+        "date": "2024-10-01",
+        "value": 23.5365028487
+      },
+      {
+        "date": "2025-01-01",
+        "value": 28.6058983897
+      },
+      {
+        "date": "2025-04-01",
+        "value": 42.1723849562
+      },
+      {
+        "date": "2025-07-01",
+        "value": 46.1239890357
+      },
+      {
+        "date": "2025-10-01",
+        "value": 58.2465446506
+      },
+      {
+        "date": "2026-01-01",
+        "value": 54.5375920171
+      },
+      {
+        "date": "2026-04-01",
+        "value": 56.4928358382
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND12",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Professional, Scientific, and Technical Services",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND12",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 45.1043297526
+      },
+      {
+        "date": "2024-10-01",
+        "value": 46.6555015171
+      },
+      {
+        "date": "2025-01-01",
+        "value": 47.2650943803
+      },
+      {
+        "date": "2025-04-01",
+        "value": 52.4063018677
+      },
+      {
+        "date": "2025-07-01",
+        "value": 62.4384828116
+      },
+      {
+        "date": "2025-10-01",
+        "value": 61.6869936106
+      },
+      {
+        "date": "2026-01-01",
+        "value": 63.9550105232
+      },
+      {
+        "date": "2026-04-01",
+        "value": 69.5429443332
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND13",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Management of Companies and Enterprises",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND13",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 58.2439002109
+      },
+      {
+        "date": "2024-10-01",
+        "value": 68.4652585255
+      },
+      {
+        "date": "2025-01-01",
+        "value": 72.6112594841
+      },
+      {
+        "date": "2025-04-01",
+        "value": 49.3573230881
+      },
+      {
+        "date": "2025-07-01",
+        "value": 64.7946973248
+      },
+      {
+        "date": "2025-10-01",
+        "value": 72.0572476561
+      },
+      {
+        "date": "2026-01-01",
+        "value": 63.8975062502
+      },
+      {
+        "date": "2026-04-01",
+        "value": 64.4594343994
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND14",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Administrative and Support and Waste Management Services",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND14",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 21.0385400664
+      },
+      {
+        "date": "2024-10-01",
+        "value": 19.32683273
+      },
+      {
+        "date": "2025-01-01",
+        "value": 20.7484706108
+      },
+      {
+        "date": "2025-04-01",
+        "value": 27.5099585876
+      },
+      {
+        "date": "2025-07-01",
+        "value": 29.4045811105
+      },
+      {
+        "date": "2025-10-01",
+        "value": 28.4324737268
+      },
+      {
+        "date": "2026-01-01",
+        "value": 29.3459699127
+      },
+      {
+        "date": "2026-04-01",
+        "value": 40.4601157323
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND15",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Educational Services",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND15",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 40.7939268081
+      },
+      {
+        "date": "2024-10-01",
+        "value": 31.6266590147
+      },
+      {
+        "date": "2025-01-01",
+        "value": 37.8938719868
+      },
+      {
+        "date": "2025-04-01",
+        "value": 37.0550913567
+      },
+      {
+        "date": "2025-07-01",
+        "value": 43.0692902859
+      },
+      {
+        "date": "2025-10-01",
+        "value": 50.506410362
+      },
+      {
+        "date": "2026-01-01",
+        "value": 54.5618569187
+      },
+      {
+        "date": "2026-04-01",
+        "value": 52.5851862896
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND16",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Health Care and Social Assistance",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND16",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 23.4425998569
+      },
+      {
+        "date": "2024-10-01",
+        "value": 29.6282092545
+      },
+      {
+        "date": "2025-01-01",
+        "value": 31.0588149939
+      },
+      {
+        "date": "2025-04-01",
+        "value": 26.9159098341
+      },
+      {
+        "date": "2025-07-01",
+        "value": 23.0138873982
+      },
+      {
+        "date": "2025-10-01",
+        "value": 31.9074291972
+      },
+      {
+        "date": "2026-01-01",
+        "value": 34.6077780807
+      },
+      {
+        "date": "2026-04-01",
+        "value": 37.1653034619
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND17",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Arts, Entertainment, and Recreation",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND17",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 22.6317678043
+      },
+      {
+        "date": "2024-10-01",
+        "value": 28.8112942802
+      },
+      {
+        "date": "2025-01-01",
+        "value": 30.058035254
+      },
+      {
+        "date": "2025-04-01",
+        "value": 34.3794733773
+      },
+      {
+        "date": "2025-07-01",
+        "value": 29.0805147801
+      },
+      {
+        "date": "2025-10-01",
+        "value": 42.9412975956
+      },
+      {
+        "date": "2026-01-01",
+        "value": 28.5132669543
+      },
+      {
+        "date": "2026-04-01",
+        "value": 31.9992080832
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND18",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Accommodation and Food Services",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND18",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 14.5869524213
+      },
+      {
+        "date": "2024-10-01",
+        "value": 13.611890798
+      },
+      {
+        "date": "2025-01-01",
+        "value": 19.366920555
+      },
+      {
+        "date": "2025-04-01",
+        "value": 22.8353679461
+      },
+      {
+        "date": "2025-07-01",
+        "value": 16.5581810507
+      },
+      {
+        "date": "2025-10-01",
+        "value": 20.8648158974
+      },
+      {
+        "date": "2026-01-01",
+        "value": 29.5089048784
+      },
+      {
+        "date": "2026-04-01",
+        "value": 30.52520052
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND19",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Other Services, Except Public Administration",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND19",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 18.7904993113
+      },
+      {
+        "date": "2024-10-01",
+        "value": 21.1496228628
+      },
+      {
+        "date": "2025-01-01",
+        "value": 26.5082050812
+      },
+      {
+        "date": "2025-04-01",
+        "value": 25.6566212512
+      },
+      {
+        "date": "2025-07-01",
+        "value": 28.6641421766
+      },
+      {
+        "date": "2025-10-01",
+        "value": 31.1101912449
+      },
+      {
+        "date": "2026-01-01",
+        "value": 28.5320547217
+      },
+      {
+        "date": "2026-04-01",
+        "value": 24.6784134748
+      }
+    ]
+  },
+  {
+    "series_id": "RPSGENAIUSAGESHAREIND20",
+    "title": "Generative Artificial Intelligence, Adoption Rate for Work: Public Administration",
+    "url": "https://fred.stlouisfed.org/data/RPSGENAIUSAGESHAREIND20",
+    "observations": [
+      {
+        "date": "2024-07-01",
+        "value": 23.0952301291
+      },
+      {
+        "date": "2024-10-01",
+        "value": 22.8443724291
+      },
+      {
+        "date": "2025-01-01",
+        "value": 13.2330268965
+      },
+      {
+        "date": "2025-04-01",
+        "value": 10.9601933249
+      },
+      {
+        "date": "2025-07-01",
+        "value": 14.5910149066
+      },
+      {
+        "date": "2025-10-01",
+        "value": 26.7641618151
+      },
+      {
+        "date": "2026-01-01",
+        "value": 19.2507328676
+      },
+      {
+        "date": "2026-04-01",
+        "value": 23.3546710364
+      }
+    ]
+  }
+]

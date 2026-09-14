@@ -127,3 +127,33 @@ Primary outputs:
 - `productivity_levels_index_2023Q1_100_p33_p66_from_2023Q1.csv/.png`
 - `productivity_levels_index_2023Q1_100_all_quantile_splits_from_2023Q1.csv`
 - `ai_quantile_membership_latestRampMonth.csv`
+
+## BLS annual detailed-industry productivity by RPS adoption
+
+```bash
+python3 scripts/rps_ai_bls_annual_productivity.py
+```
+
+Uses the BLS `labor-productivity-detailed-industries.xlsx` workbook (August 26,
+2026 release) for annual observations from 2023 through 2025, with **2023 annual
+average = 100**. The source workbook and metadata are archived in
+`data/bls_annual_productivity/`, and the RPS source is in
+`data/rps_ai/fred_series.json`. Updated workbooks can be downloaded from the
+[BLS tables page](https://www.bls.gov/productivity/tables/). The command uses
+archived inputs without network requests; `--bls-xlsx`, `--rps-raw-dir`, `--rps-quarter`, `--end-year`, and
+`--outdir` select other inputs or output locations.
+
+The default balanced panel contains 45 nonoverlapping BLS industry series mapped
+to 15 RPS sectors. Construction, management of companies, and education have no
+productivity series in this workbook. Quartiles, quintiles, and halves are
+recomputed among the covered sectors using the May 2026 RPS adoption wave.
+Within each sector, normalized industry productivity indexes use fixed 2023
+hours weights; sectors receive equal weights within their adoption group.
+Service-sector coverage can be narrow, so these are descriptive composites of
+covered industries, not official BLS aggregates or whole-sector estimates.
+
+`outputs/rps_ai_bls_annual_productivity/` contains the combined chart in PNG,
+SVG, and PDF; separate charts for all three splits; annual index data; sector and
+industry assignments and weights; a row-selection audit; source hashes; and
+`analysis.md` with methods and coverage. Validation checks source growth rates,
+complete annual coverage, base normalization, and the aggregation weights.
